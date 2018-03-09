@@ -1,0 +1,8 @@
+Technology to Assess Sleep, An Issue of Sleep Medicine Clinic; Penzel, Thomas; Elsevier Health Sciences, 2016
+Sleep estimation from wrist movement quantified by different actigraphic modalities , GirardinJean-Louis, 2001
+Newly developed waist actigraphy and its sleep/wake scoring algorithm; Enomoto; 2009
+Algorithms for using an activity-based accelerometer for identification of infant sleep–wake states during nap studies; Galland BC; 2012
+Transitions in effective scaling behavior of accelerometric time series across sleep and wake; Patrick Wohlfahrt; 2013
+Sleep Assessment in Large Cohort Studies with High-Resolution Accelerometers; Melanie Zinkhahn; 2015
+Identifying children's nocturnal sleep using 24-h waist accelerometry; Barreira TV; 2015
+Reliable Method to Estimate Characteristics of Sleep and Physical Inactivity in Free-Living Conditions Using Accelerometry;DenisGarnier; 2016

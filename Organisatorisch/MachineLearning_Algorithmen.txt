@@ -1,0 +1,7 @@
+- Logistische Regression
+- Lineare Regression
+- Support Vektor Machine (SVM)
+- Random Forest
+- Baysianisches Modell
+- Hidden Markov Modell (HMM) - unsupervised ggf. zu wenig Daten
+- Neural Netze - schwierig in der Implementation, ggf zu wenig Daten, schwierig für Angaben in Wissenschaftlichen Arbeiten

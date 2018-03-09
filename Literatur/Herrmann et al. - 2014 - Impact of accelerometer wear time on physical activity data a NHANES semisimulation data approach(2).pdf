@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html>
+<html lang="en" dir="ltr" version="HTML+RDFa+MathML 1.1"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="//d1bxh8uas1mnw7.cloudfront.net" />
+<link rel="shortcut icon" href="http://bjsm.bmj.com/sites/default/themes/bmjj/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="viewport" content="initial-scale=1, maximum-scale=1, width=device-width, user-scalable=yes, shrink-to-fit=no" />
+<meta name="issue_cover_image" content="http://bjsm.bmj.com/sites/default/files/highwire/bjsports/48/3.cover-source.jpg" />
+<meta name="type" content="article" />
+<meta name="category" content="research-article" />
+<meta name="HW.identifier" content="/bjsports/48/3/278.atom" />
+<meta name="HW.pisa" content="bjsports;48/3/278" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Title" content="Impact of accelerometer wear time on physical activity data: a NHANES semisimulation data approach" />
+<meta name="DC.Identifier" content="10.1136/bjsports-2012-091410" />
+<meta name="DC.Date" content="2014-02-01" />
+<meta name="DC.Publisher" content="BMJ Publishing Group Ltd and British Association of Sport and Exercise Medicine" />
+<meta name="DC.Rights" content="Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://group.bmj.com/group/rights-licensing/permissions" />
+<meta name="DC.AccessRights" content="restricted" />
+<meta name="DC.Description" content="Background Current research practice employs wide-ranging accelerometer wear time criteria to identify a valid day of physical activity (PA) measurement.
+
+Objective To evaluate the effects of varying amounts of daily accelerometer wear time on PA data.
+
+Methods A total of 1000 days of accelerometer data from 1000 participants (age=38.7±14.3 years; body mass index=28.2±6.7 kg/m2) were selected from the 2005–2006 National Health and Nutrition Examination Study data set. A reference data set was created using 200 random days with 14 h/day of wear time. Four additional samples of 200 days were randomly selected with a wear time of 10, 11, 12 and 13 h/day1. These data sets were used in day-to-day comparison to create four semisimulation data sets (10, 11, 12, 13 h/day) from the reference data set. Differences in step count and time spent in inactivity (&lt;100 cts/min), light (100–1951 cts/min), moderate (1952–5724 cts/min) and vigorous (≥5725 cts/min) intensity PA were assessed using repeated-measures analysis of variance and absolute percent error (APE).
+
+Results There were significant differences for moderate intensity PA between the reference data set and semisimulation data sets of 10 and 11 h/day. Differences were observed in 10–13 h/day1 for inactivity and light intensity PA, and 10–12 h/day for steps (all p values &lt;0.05). APE increased with shorter wear time (13 h/day=3.9–14.1%; 12 h/day=9.9–15.2%, 11 h/day=17.1–35.5%; 10 h/day=24.6–40.3%).
+
+Discussion These data suggest that using accelerometer wear time criteria of 12 h/day or less may underestimate step count and time spent in various PA levels." />
+<meta name="DC.Contributor" content="Stephen D Herrmann" />
+<meta name="DC.Contributor" content="Tiago V Barreira" />
+<meta name="DC.Contributor" content="Minsoo Kang" />
+<meta name="DC.Contributor" content="Barbara E Ainsworth" />
+<meta name="og:title" property="og:title" content="Impact of accelerometer wear time on physical activity data: a NHANES semisimulation data approach" />
+<meta name="og:url" property="og:url" content="http://bjsm.bmj.com/content/48/3/278" />
+<meta name="og:site_name" property="og:site_name" content="British Journal of Sports Medicine" />
+<meta name="og:image" property="og:image" content="http://bjsm.bmj.com/sites/default/files/highwire/bjsports/48/3.cover-source.jpg" />
+<meta name="og:description" property="og:description" content="Background Current research practice employs wide-ranging accelerometer wear time criteria to identify a valid day of physical activity (PA) measurement.
+
+Objective To evaluate the effects of varying amounts of daily accelerometer wear time on PA data.
+
+Methods A total of 1000 days of accelerometer data from 1000 participants (age=38.7±14.3 years; body mass index=28.2±6.7 kg/m2) were selected from the 2005–2006 National Health and Nutrition Examination Study data set. A reference data set was created using 200 random days with 14 h/day of wear time. Four additional samples of 200 days were randomly selected with a wear time of 10, 11, 12 and 13 h/day1. These data sets were used in day-to-day comparison to create four semisimulation data sets (10, 11, 12, 13 h/day) from the reference data set. Differences in step count and time spent in inactivity (&lt;100 cts/min), light (100–1951 cts/min), moderate (1952–5724 cts/min) and vigorous (≥5725 cts/min) intensity PA were assessed using repeated-measures analysis of variance and absolute percent error (APE).
+
+Results There were significant differences for moderate intensity PA between the reference data set and semisimulation data sets of 10 and 11 h/day. Differences were observed in 10–13 h/day1 for inactivity and light intensity PA, and 10–12 h/day for steps (all p values &lt;0.05). APE increased with shorter wear time (13 h/day=3.9–14.1%; 12 h/day=9.9–15.2%, 11 h/day=17.1–35.5%; 10 h/day=24.6–40.3%).
+
+Discussion These data suggest that using accelerometer wear time criteria of 12 h/day or less may underestimate step count and time spent in various PA levels." />
+<meta name="og:type" property="og:type" content="article" />
+<meta name="article:published_time" content="2014-02-01" />
+<meta name="article:section" content="Original article" />
+<meta name="citation_title" content="Impact of accelerometer wear time on physical activity data: a NHANES semisimulation data approach" />
+<meta name="citation_abstract" lang="en" content="&lt;h3&gt;Background&lt;/h3&gt;
+&lt;p&gt;Current research practice employs wide-ranging accelerometer wear time criteria to identify a valid day of physical activity (PA) measurement.&lt;/p&gt;&lt;h3&gt;Objective&lt;/h3&gt;
+&lt;p&gt;To evaluate the effects of varying amounts of daily accelerometer wear time on PA data.&lt;/p&gt;&lt;h3&gt;Methods&lt;/h3&gt;
+&lt;p&gt;A total of 1000 days of accelerometer data from 1000 participants (age=38.7±14.3 years; body mass index=28.2±6.7 kg/m&lt;sup&gt;2&lt;/sup&gt;) were selected from the 2005–2006 National Health and Nutrition Examination Study data set. A reference data set was created using 200 random days with 14 h/day of wear time. Four additional samples of 200 days were randomly selected with a wear time of 10, 11, 12 and 13 h/day&lt;sup&gt;1&lt;/sup&gt;. These data sets were used in day-to-day comparison to create four semisimulation data sets (10, 11, 12, 13 h/day) from the reference data set. Differences in step count and time spent in inactivity (&amp;lt;100 cts/min), light (100–1951 cts/min), moderate (1952–5724 cts/min) and vigorous (≥5725 cts/min) intensity PA were assessed using repeated-measures analysis of variance and absolute percent error (APE).&lt;/p&gt;&lt;h3&gt;Results&lt;/h3&gt;
+&lt;p&gt;There were significant differences for moderate intensity PA between the reference data set and semisimulation data sets of 10 and 11 h/day. Differences were observed in 10–13 h/day&lt;sup&gt;1&lt;/sup&gt; for inactivity and light intensity PA, and 10–12 h/day for steps (all p values &amp;lt;0.05). APE increased with shorter wear time (13 h/day=3.9–14.1%; 12 h/day=9.9–15.2%, 11 h/day=17.1–35.5%; 10 h/day=24.6–40.3%).&lt;/p&gt;&lt;h3&gt;Discussion&lt;/h3&gt;
+&lt;p&gt;These data suggest that using accelerometer wear time criteria of 12 h/day or less may underestimate step count and time spent in various PA levels.&lt;/p&gt;" />
+<meta name="citation_journal_title" content="Br J Sports Med" />
+<meta name="citation_publisher" content="BMJ Publishing Group Ltd and British Association of Sport and Exercise Medicine" />
+<meta name="citation_publication_date" content="2014/02/01" />
+<meta name="citation_mjid" content="bjsports;48/3/278" />
+<meta name="citation_id" content="48/3/278" />
+<meta name="citation_public_url" content="http://bjsm.bmj.com/content/48/3/278" />
+<meta name="citation_abstract_html_url" content="http://bjsm.bmj.com/content/48/3/278.abstract" />
+<meta name="citation_full_html_url" content="http://bjsm.bmj.com/content/48/3/278.full" />
+<meta name="citation_pdf_url" content="http://bjsm.bmj.com/content/48/3/278.full.pdf" />
+<meta name="citation_issn" content="0306-3674" />
+<meta name="citation_issn" content="1473-0480" />
+<meta name="citation_journal_abbrev" content="Br J Sports Med" />
+<meta name="citation_doi" content="10.1136/bjsports-2012-091410" />
+<meta name="citation_pmid" content="22936409" />
+<meta name="citation_volume" content="48" />
+<meta name="citation_issue" content="3" />
+<meta name="citation_article_type" content="Research Article" />
+<meta name="citation_section" content="Original article" />
+<meta name="citation_firstpage" content="278" />
+<meta name="citation_lastpage" content="282" />
+<meta name="citation_author" content="Stephen D Herrmann" />
+<meta name="citation_author_institution" content="Cardiovascular Research Institute, University of Kansas Medical Center, Kansas City, Kansas, USA" />
+<meta name="citation_author" content="Tiago V Barreira" />
+<meta name="citation_author_institution" content="Division of Population Science, Pennington Biomedical Research Center, Baton Rouge, Louisiana, USA" />
+<meta name="citation_author" content="Minsoo Kang" />
+<meta name="citation_author_institution" content="Health and Human Performance, Middle Tennessee State University, Murfreesboro, Tennessee, USA" />
+<meta name="citation_author" content="Barbara E Ainsworth" />
+<meta name="citation_author_institution" content="Department of Exercise and Wellness, Arizona State University, Phoenix, Arizona, USA" />
+<meta name="citation_reference" content="citation_journal_title=Curr Cardiovasc Risk Rep;citation_author=MT. Hamilton;citation_author=GN. Healy;citation_author=DW. Dunstan;citation_title=Too little exercise and too much sitting: inactivity physiology and the need for new recommendations on sedentary behavior;citation_pages=292-8;citation_volume=2;citation_year=2008;citation_pmid=22905272;citation_doi=10.1007/s12170-008-0054-8" />
+<meta name="citation_reference" content="citation_journal_title=Annual review of public health;citation_journal_abbrev=Annu Rev Public Health;citation_author=KE. Powell;citation_author=AE. Paluch;citation_author=SN. Blair;citation_title=Physical activity for health: What kind? How much? How intense? On top of what?;citation_pages=349-365;citation_volume=32;citation_year=2011;citation_issn=0163-7525;citation_pmid=21128761;citation_doi=10.1146/annurev-publhealth-031210-101151" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=RP. Troiano;citation_title=A timely meeting: objective measurement of physical activity.;citation_pages=S487-S489;citation_volume=37;citation_year=2005;citation_issue=11 Suppl;citation_pmid=16294111;citation_doi=10.1249/01.mss.0000185473.32846.c3" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=CE. Matthews;citation_author=BE. Ainsworth;citation_author=RW. Thompson;citation_title=Sources of variance in daily physical activity levels as measured by an accelerometer.;citation_pages=1376-1381;citation_volume=34;citation_year=2002;citation_issue=8;citation_pmid=12165695;citation_doi=10.1097/00005768-200208000-00021" />
+<meta name="citation_reference" content="citation_journal_title=Annals of epidemiology;citation_journal_abbrev=Ann Epidemiol;citation_author=S. Levin;citation_author=DR. Jacobs;citation_author=BE. Ainsworth;citation_title=Intra-individual variation and estimates of usual physical activity.;citation_pages=481-488;citation_volume=9;citation_year=1999;citation_issue=8;citation_pmid=10549881;citation_doi=10.1016/S1047-2797(99)00022-8" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=RJ. Gretebeck;citation_author=HJ. Montoye;citation_title=Variability of some objective measures of physical activity.;citation_pages=1167-1172;citation_volume=24;citation_year=1992;citation_issue=10;citation_pmid=1435166" />
+<meta name="citation_reference" content="citation_journal_abbrev=J Phys Act Health;citation_author=DA. Rowe;citation_author=CD. Kemble;citation_author=TS. Robinson;citation_title=Daily walking in older adults: day-to-day variability and criterion-referenced validity of total daily step counts.;citation_pages=434-446;citation_volume=4;citation_year=2007;citation_issue=4;citation_pmid=18209234" />
+<meta name="citation_reference" content="citation_journal_title=Research quarterly for exercise and sport;citation_journal_abbrev=Res Q Exerc Sport;citation_author=M. Kang;citation_author=DA. Rowe;citation_author=TV. Barreira;citation_title=Individual information-centered approach for handling physical activity missing data.;citation_pages=131-137;citation_volume=80;citation_year=2009;citation_issue=2;citation_pmid=19650377;citation_doi=10.1080/02701367.2009.10599546" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=DJ. Catellier;citation_author=PJ. Hannan;citation_author=DM. Murray;citation_title=Imputation of missing data when measuring physical activity by accelerometry.;citation_pages=S555-S562;citation_volume=37;citation_year=2005;citation_issue=(11 Suppl);citation_pmid=16294118;citation_doi=10.1249/01.mss.0000185651.59486.4e" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=SG. Trost;citation_author=KL. McIver;citation_author=RR. Pate;citation_title=Conducting accelerometer-based activity assessments in field-based research.;citation_pages=S531-S543;citation_volume=37;citation_year=2005;citation_issue=(11 Suppl);citation_pmid=16294116;citation_doi=10.1249/01.mss.0000185657.86065.98" />
+<meta name="citation_reference" content="citation_journal_abbrev=Int J Behav Nutr Phys Act;citation_author=KP. Gabriel;citation_author=JJ. McClain;citation_author=KK. Schmid;citation_title=Issues in accelerometer methodology: the role of epoch length on estimates of physical activity and relationships with health outcomes in overweight, post-menopausal women.;citation_pages=53-53;citation_volume=7;citation_year=2010;citation_pmid=20550691;citation_doi=10.1186/1479-5868-7-53" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=JA. Banda;citation_author=B. Hutto;citation_author=A. Feeney;citation_title=Comparing physical activity measures in a diverse group of midlife and older adults.;citation_pages=2251-2257;citation_volume=42;citation_year=2010;citation_issue=12;citation_pmid=20421836;citation_doi=10.1249/MSS.0b013e3181e32e9a" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=LC. Mâsse;citation_author=BF. Fuemmeler;citation_author=CB. Anderson;citation_title=Accelerometer data reduction: a comparison of four reduction algorithms on select outcome variables.;citation_pages=S544-S554;citation_volume=37;citation_year=2005;citation_issue=(11 Suppl);citation_pmid=16294117;citation_doi=10.1249/01.mss.0000185674.09066.8a" />
+<meta name="citation_reference" content="citation_journal_title=Environ and Behav;citation_author=MG. Boarnet;citation_author=A. Forsyth;citation_author=K. Day;citation_title=The street level built environment and physical activity and walking: results of a predictive validity study for the Irvine Minnesota Inventory;citation_pages=735-75;citation_volume=43;citation_year=2011;citation_doi=10.1177/0013916510379760" />
+<meta name="citation_reference" content="citation_journal_title=Transp Res Part D Trans Environ;citation_title=The built environment, walking, and physical activity: Is the environment more important to some people than others?;citation_author=A. Forsyth;citation_author=J. Michael Oakes;citation_author=B. Lee;citation_pages=42-9;citation_volume=14" />
+<meta name="citation_reference" content="citation_journal_abbrev=Int J Behav Nutr Phys Act;citation_author=SM. Slootmaker;citation_author=AJ. Schuit;citation_author=MJM. Chinapaw;citation_title=Disagreement in physical activity assessed by accelerometer and self-report in subgroups of age, gender, education and weight status.;citation_pages=17-17;citation_volume=6;citation_year=2009;citation_pmid=19320985;citation_doi=10.1186/1479-5868-6-17" />
+<meta name="citation_reference" content="citation_journal_abbrev=Int J Behav Nutr Phys Act;citation_author=H. Spittaels;citation_author=M. Verloigne;citation_author=C. Gidlow;citation_title=Measuring physical activity-related environmental factors: reliability and predictive validity of the European environmental questionnaire ALPHA.;citation_pages=48-48;citation_volume=7;citation_year=2010;citation_issue=1;citation_pmid=20504339;citation_doi=10.1186/1479-5868-7-48" />
+<meta name="citation_reference" content="citation_journal_abbrev=Psychol Sport Exerc;citation_author=KR. Evenson;citation_title=Towards an Understanding of Change in Physical Activity from Pregnancy Through Postpartum.;citation_pages=36-45;citation_volume=12;citation_year=2011;citation_issue=1;citation_pmid=21278835;citation_doi=10.1016/j.psychsport.2010.04.010" />
+<meta name="citation_reference" content="citation_journal_title=Res Q Exerc Sport;citation_author=MA. Alzahrani;citation_author=L. Ada;citation_author=CM. Dean;citation_title=Duration of physical activity is normal but frequency is reduced after stroke: an observational study;citation_pages=47-51;citation_volume=57;citation_year=2011" />
+<meta name="citation_reference" content="citation_journal_title=Preventing chronic disease [electronic resource];citation_journal_abbrev=Prev Chronic Dis;citation_author=DR. Young;citation_author=GJ. Jerome;citation_author=C. Chen;citation_title=Patterns of physical activity among overweight and obese adults.;citation_pages=A90-A90;citation_volume=6;citation_year=2009;citation_issue=3;citation_pmid=19527591" />
+<meta name="citation_reference" content="citation_journal_title=Health Rep;citation_author=RC. Colley;citation_author=D. Garriguet;citation_author=I. Janssen;citation_title=Physical activity of Canadian adults: accelerometer results from the 2007–2009 Canadian Health Measures Survey;citation_pages=4-11;citation_volume=22;citation_year=2011" />
+<meta name="citation_reference" content="citation_journal_title=Archives of physical medicine and rehabilitation;citation_journal_abbrev=Arch Phys Med Rehabil;citation_author=RW. Motl;citation_author=D. Dlugonski;citation_author=Y. Suh;citation_title=Accelerometry and its association with objective markers of walking limitations in ambulatory adults with multiple sclerosis.;citation_pages=1942-1947;citation_volume=91;citation_year=2010;citation_issue=12;citation_pmid=21112438;citation_doi=10.1016/j.apmr.2010.08.011" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=RP. Troiano;citation_author=D. Berrigan;citation_author=KW. Dodd;citation_title=Physical activity in the United States measured by accelerometer.;citation_pages=181-188;citation_volume=40;citation_year=2008;citation_issue=1;citation_pmid=18091006;citation_doi=10.1249/mss.0b013e31815a51b3" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=PS. Freedson;citation_author=E. Melanson;citation_author=J. Sirard;citation_title=Calibration of the Computer Science and Applications, Inc. accelerometer.;citation_pages=777-781;citation_volume=30;citation_year=1998;citation_issue=5;citation_pmid=9588623;citation_doi=10.1097/00005768-199805000-00021" />
+<meta name="citation_reference" content="citation_journal_title=Am J Epidemiol;citation_author=CE. Matthews;citation_author=KY. Chen;citation_author=PS. Freedson;citation_title=Amount of time spent in sedentary behaviors in the United States, 2003–2004;citation_volume=167;citation_year=2008;citation_pmid=18303006;citation_doi=10.1093/aje/kwm390" />
+<meta name="citation_reference" content="citation_journal_title=International journal of sports medicine;citation_journal_abbrev=Int J Sports Med;citation_author=U. Ekelund;citation_author=A. Yngve;citation_author=M. Sjöström;citation_title=Field evaluation of the Computer Science and Application's Inc. Activity monitor during running and skating training in adolescent athletes.;citation_pages=586-592;citation_volume=21;citation_year=2000;citation_issue=8;citation_pmid=11156280;citation_doi=10.1055/s-2000-8487" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=AM. Swartz;citation_author=SJ. Strath;citation_author=DR. Bassett;citation_title=Estimation of energy expenditure using CSA accelerometers at hip and wrist sites.;citation_pages=S450-S456;citation_volume=32;citation_year=2000;citation_issue=(9 Suppl);citation_pmid=10993414;citation_doi=10.1097/00005768-200009001-00003" />
+<meta name="citation_reference" content="citation_journal_title=Meas Phys Educ Exerc Sci;citation_author=M. Kang;citation_author=W. Zhu;citation_author=C. Tudor-Locke;citation_title=Experimental determination of effectiveness of an individual information-centered approach in recovering step-count missing data;citation_pages=233-50;citation_volume=9;citation_year=2005;citation_doi=10.1207/s15327841mpee0904_3" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=M. Hagströmer;citation_author=P. Oja;citation_author=M. Sjöström;citation_title=Physical activity and inactivity in an adult population assessed by accelerometry.;citation_pages=1502-1508;citation_volume=39;citation_year=2007;citation_issue=9;citation_pmid=17805081;citation_doi=10.1249/mss.0b013e3180a76de5" />
+<meta name="citation_reference" content="citation_journal_title=Research quarterly for exercise and sport;citation_journal_abbrev=Res Q Exerc Sport;citation_author=KR. Evenson;citation_author=JW. Terry;citation_title=Assessment of differing definitions of accelerometer nonwear time.;citation_pages=355-362;citation_volume=80;citation_year=2009;citation_issue=2;citation_pmid=19650401;citation_doi=10.1080/02701367.2009.10599570" />
+<meta name="citation_reference" content="citation_journal_title=Research quarterly for exercise and sport;citation_journal_abbrev=Res Q Exerc Sport;citation_author=M. Kang;citation_author=DR. Bassett;citation_author=TV. Barreira;citation_title=How many days are enough? A study of 365 days of pedometer monitoring.;citation_pages=445-453;citation_volume=80;citation_year=2009;citation_issue=3;citation_pmid=19791630;citation_doi=10.5641/027013609X13088500159129" />
+<meta name="citation_reference" content="citation_journal_title=J Phys Act Health;citation_title=How many hours are enough? Accelerometer wear time may provide bias in daily activity estimates;citation_author=SD. Herrmann;citation_author=T. Barriera;citation_author=M. Kang" />
+<meta name="citation_reference" content="citation_title=Physical Activity Guidelines Advisory Committee Report;citation_year=2008" />
+<meta name="citation_reference" content="citation_journal_title=Circulation;citation_author=WL. Haskell;citation_author=IM. Lee;citation_author=RR. Pate;citation_title=Physical activity and public health: updated recommendation for adults from the American College of Sports Medicine and the American Heart Association;citation_volume=116;citation_year=2007;citation_pmid=17671237;citation_doi=10.1161/CIRCULATIONAHA.107.185649" />
+<meta name="citation_reference" content="citation_journal_title=Health reports / Statistics Canada, Canadian Centre for Health Information = Rapports sur la santÃ© / Statistique Canada, Centre canadien d'information sur la santÃ©;citation_journal_abbrev=Health Rep;citation_author=R. Colley;citation_author=SC. Gorber;citation_author=MS. Tremblay;citation_title=Quality control and data reduction procedures for accelerometry-derived measures of physical activity.;citation_pages=63-69;citation_volume=21;citation_year=2010;citation_issue=1;citation_pmid=20426228" />
+<meta name="citation_reference" content="citation_journal_title=Medicine and Science in Sports and Exercise;citation_journal_abbrev=Medicine and Science in Sports and Exercise;citation_author=GJ. Jerome;citation_author=DR. Young;citation_author=D. Laferriere;citation_title=Reliability of RT3 accelerometers among overweight and obese adults.;citation_pages=110-114;citation_volume=41;citation_year=2009;citation_issue=1;citation_pmid=19092700" />
+<meta name="citation_reference" content="citation_journal_title=Sleep;citation_journal_abbrev=Sleep;citation_author=S. Ancoli-Israel;citation_author=R. Cole;citation_author=C. Alessi;citation_title=The role of actigraphy in the study of sleep and circadian rhythms.;citation_pages=342-392;citation_volume=26;citation_year=2003;citation_issue=3;citation_pmid=12749557" />
+<meta name="citation_reference" content="citation_journal_title=Sociological Methodology;citation_journal_abbrev=Sociological Methodology;citation_author=SL. Hofferth;citation_author=GJ. Welk;citation_author=MS. Treuth;citation_title=3. Validation of a Diary Measure of Children's Physical Activities;citation_pages=133-154;citation_volume=38;citation_year=2008;citation_issue=1;citation_issn=0081-1750;citation_doi=10.1111/j.1467-9531.2008.00200.x" />
+<meta name="citation_reference" content="citation_journal_title=Sleep medicine reviews;citation_journal_abbrev=Sleep Med Rev;citation_author=A. Sadeh;citation_author=C. Acebo;citation_title=The role of actigraphy in sleep medicine.;citation_pages=113-124;citation_volume=6;citation_year=2002;citation_issue=2;citation_pmid=12531147;citation_doi=10.1053/smrv.2001.0182" />
+<link rel="alternate" type="application/vnd.ms-powerpoint" title="Powerpoint" href="/content/48/3/278.ppt" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://bjsm.bmj.com/content/48/3/278" />
+<link rel="alternate" type="application/pdf" title="Full Text (PDF)" href="/content/48/3/278.full.pdf" />
+<link rel="alternate" type="text/plain" title="Full Text (Plain)" href="/content/48/3/278.full.txt" />
+  <title>Impact of accelerometer wear time on physical activity data: a NHANES semisimulation data approach | British Journal of Sports Medicine</title>  
+  <link type="text/css" rel="stylesheet" href="//bjsm.bmj.com/sites/default/files/advagg_css/css__tIz6Audc-xZKwd8hDqkBs49dFAqwDYMyhWTSb-CL-R4__3fWgj6TDOXBZkZtU5u-k4SOHtZ-gGx7aLynmismPNKg__E1UR1XrGfDH4AFLMcEPSbtK8TAsNPctwH-iyvB5H7KA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//bjsm.bmj.com/sites/all/modules/highwire/highwire/highwire.style.highwire.css?p0x9h6" media="all" />
+<link type="text/css" rel="stylesheet" href="//bjsm.bmj.com/sites/default/files/advagg_css/css__YtQ8_KBtH08OsYCJwqEOVkF5oB1UjMtkaqgaTU7kd7Q__ghivEuoezm-NAdkdGddTtVjSjrLmO5QzW1GWTwPzBBY__E1UR1XrGfDH4AFLMcEPSbtK8TAsNPctwH-iyvB5H7KA.css" media="all" />
+  <script type="text/javascript" src="http://gc.kis.v2.scr.kaspersky-labs.com/F3F2AE69-16C9-3F48-BFCC-548044419661/main.js" charset="UTF-8"></script><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+/*!
+ * yepnope1.5.4
+ * (c) WTFPL, GPLv2
+ */
+(function(a,b,c){function d(a){return"[object Function]"==o.call(a)}function e(a){return"string"==typeof a}function f(){}function g(a){return!a||"loaded"==a||"complete"==a||"uninitialized"==a}function h(){var a=p.shift();q=1,a?a.t?m(function(){("c"==a.t?B.injectCss:B.injectJs)(a.s,0,a.a,a.x,a.e,1)},0):(a(),h()):q=0}function i(a,c,d,e,f,i,j){function k(b){if(!o&&g(l.readyState)&&(u.r=o=1,!q&&h(),l.onload=l.onreadystatechange=null,b)){"img"!=a&&m(function(){t.removeChild(l)},50);for(var d in y[c])y[c].hasOwnProperty(d)&&y[c][d].onload()}}var j=j||B.errorTimeout,l=b.createElement(a),o=0,r=0,u={t:d,s:c,e:f,a:i,x:j};1===y[c]&&(r=1,y[c]=[]),"object"==a?l.data=c:(l.src=c,l.type=a),l.width=l.height="0",l.onerror=l.onload=l.onreadystatechange=function(){k.call(this,r)},p.splice(e,0,u),"img"!=a&&(r||2===y[c]?(t.insertBefore(l,s?null:n),m(k,j)):y[c].push(l))}function j(a,b,c,d,f){return q=0,b=b||"j",e(a)?i("c"==b?v:u,a,b,this.i++,c,d,f):(p.splice(this.i++,0,a),1==p.length&&h()),this}function k(){var a=B;return a.loader={load:j,i:0},a}var l=b.documentElement,m=a.setTimeout,n=b.getElementsByTagName("script")[0],o={}.toString,p=[],q=0,r="MozAppearance"in l.style,s=r&&!!b.createRange().compareNode,t=s?l:n.parentNode,l=a.opera&&"[object Opera]"==o.call(a.opera),l=!!b.attachEvent&&!l,u=r?"object":l?"script":"img",v=l?"script":u,w=Array.isArray||function(a){return"[object Array]"==o.call(a)},x=[],y={},z={timeout:function(a,b){return b.length&&(a.timeout=b[0]),a}},A,B;B=function(a){function b(a){var a=a.split("!"),b=x.length,c=a.pop(),d=a.length,c={url:c,origUrl:c,prefixes:a},e,f,g;for(f=0;f<d;f++)g=a[f].split("="),(e=z[g.shift()])&&(c=e(c,g));for(f=0;f<b;f++)c=x[f](c);return c}function g(a,e,f,g,h){var i=b(a),j=i.autoCallback;i.url.split(".").pop().split("?").shift(),i.bypass||(e&&(e=d(e)?e:e[a]||e[g]||e[a.split("/").pop().split("?")[0]]),i.instead?i.instead(a,e,f,g,h):(y[i.url]?i.noexec=!0:y[i.url]=1,f.load(i.url,i.forceCSS||!i.forceJS&&"css"==i.url.split(".").pop().split("?").shift()?"c":c,i.noexec,i.attrs,i.timeout),(d(e)||d(j))&&f.load(function(){k(),e&&e(i.origUrl,h,g),j&&j(i.origUrl,h,g),y[i.url]=2})))}function h(a,b){function c(a,c){if(a){if(e(a))c||(j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}),g(a,j,b,0,h);else if(Object(a)===a)for(n in m=function(){var b=0,c;for(c in a)a.hasOwnProperty(c)&&b++;return b}(),a)a.hasOwnProperty(n)&&(!c&&!--m&&(d(j)?j=function(){var a=[].slice.call(arguments);k.apply(this,a),l()}:j[n]=function(a){return function(){var b=[].slice.call(arguments);a&&a.apply(this,b),l()}}(k[n])),g(a[n],j,b,n,h))}else!c&&l()}var h=!!a.test,i=a.load||a.both,j=a.callback||f,k=j,l=a.complete||f,m,n;c(h?a.yep:a.nope,!!i),i&&c(i)}var i,j,l=this.yepnope.loader;if(e(a))g(a,0,l,0);else if(w(a))for(i=0;i<a.length;i++)j=a[i],e(j)?g(j,0,l,0):w(j)?B(j):Object(j)===j&&h(j,l);else Object(a)===a&&h(a,l)},B.addPrefix=function(a,b){z[a]=b},B.addFilter=function(a){x.push(a)},B.errorTimeout=1e4,null==b.readyState&&b.addEventListener&&(b.readyState="loading",b.addEventListener("DOMContentLoaded",A=function(){b.removeEventListener("DOMContentLoaded",A,0),b.readyState="complete"},0)),a.yepnope=k(),a.yepnope.executeStack=h,a.yepnope.injectJs=function(a,c,d,e,i,j){var k=b.createElement("script"),l,o,e=e||B.errorTimeout;k.src=a;for(o in d)k.setAttribute(o,d[o]);c=j?h:c||f,k.onreadystatechange=k.onload=function(){!l&&g(k.readyState)&&(l=1,c(),k.onload=k.onreadystatechange=null)},m(function(){l||(l=1,c(1))},e),i?k.onload():n.parentNode.insertBefore(k,n)},a.yepnope.injectCss=function(a,c,d,e,g,i){var e=b.createElement("link"),j,c=i?h:c||f;e.href=a,e.rel="stylesheet",e.type="text/css";for(j in d)e.setAttribute(j,d[j]);g||(n.parentNode.insertBefore(e,n),m(c,0))}})(this,document);
+
+//--><!]]>
+</script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/libraries/modernizr/modernizr.min.js?p0x9h6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+yepnope({
+  test: Modernizr.matchmedia,
+  nope: '/sites/all/libraries/media-match/media.match.min.js'
+});
+//--><!]]>
+</script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/misc/drupal.js?p0x9h6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var DC = { Date : "", subject : "" };var ga_article_category = "Original article";var ga_article_page_type = "research-article";var ga_article_pub_year = "2012";var ga_customer_number = "";var ga_user_type = "";DC.Date = "2014-01-10";DC.subject = "";
+//--><!]]>
+</script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/js/highwire.equal-heights.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/js/highwire.panels-ajax-tab.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/libraries/colorbox/jquery.colorbox-min.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/colorbox/js/colorbox.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?p0x9h6"></script>
+<script type="text/javascript" defer="defer" async="async" src="//cdn.foxycart.com/bmjpg.ecommerce.highwire.org/loader.js"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/foxycart/foxycart.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/highwire_log/highwire_log.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/highwire_nps_survey/js/nps_survey.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/highwire_user/js/highwire_user_meta.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/panels/js/panels.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/jnl_template_bmjj/plugins/content_types/js/affix.js?p0x9h6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    jQuery(document).ready(function() {
+      var topOffset = jQuery(window).height() - jQuery('#article-top').offset().top + 100;
+      jQuery('.article-go-to-top').css('margin-top', topOffset);
+      jQuery('.article-go-to-top').affix({
+        offset: {
+          top: function () {
+            return (this.top = topOffset-10);
+          },
+          bottom:  function () {
+            if(jQuery('#article-bottom-row').length){
+              return (this.bottom = jQuery('#footer').outerHeight(true) + jQuery('#article-bottom-row').outerHeight(true)+180)
+            }else{
+              return (this.bottom = jQuery('#footer').outerHeight(true)+180)
+            }
+          } 
+        }
+      });
+    });
+//--><!]]>
+</script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/jnl_template_bmjj/plugins/content_types/js/bmjj-modal.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/js/highwire.article-citation-access.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/panels_ajax_tab/js/panels_ajax_tab.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/jnl_template_bmjj/plugins/highwire_markup_process/js/bmjj_author_affiliates.js?p0x9h6"></script>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_altmetrics.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_at_symbol.js?p0x9h6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.MathJax = { menuSettings: { zoom: "Click" } };
+//--><!]]>
+</script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/jnl_template_bmjj/plugins/content_types/js/bmjj_mobile_article_menu.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/highwire_responsive/plugins/styles/highwire_responsive_toggle/highwire_responsive_toggle.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/contrib/menu_attach_block/menu_attach_block.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/contrib/panels_ajax_pane/panels_ajax_pane.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/highwire_foxycart/highwire_foxycart.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/themes/bmjj/js/theme-scripts.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/themes/bmjj/js/oas.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/themes/bmjj/js/svg4everybody.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/themes/bmjj/js/jquery.cookieBar.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/highwire_responsive/js/highwire-mediaqueries.js?p0x9h6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bmjj","theme_token":"n8oDJCE67wRHdK9KYPopBsMbx_jfn4wLhOQhP6hG4QQ","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_draw\/css\/highwire-draw.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_folders\/highwire_folders.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_foxycart\/highwire_foxycart.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/css\/highwire-responsive.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_saved_searches\/highwire_saved_searches.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/highwire_user.css":1,"sites\/default\/modules\/contrib\/menu_attach_block\/menu_attach_block.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/foxycart\/foxycart.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.highwire.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/nlm-elements.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/263bfdb18936424f0ade19d6bd885f37.css":1,"sites\/all\/modules\/contrib\/panels_ajax_tab\/css\/panels_ajax_tab.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.markup.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/plugins\/styles\/highwire_responsive_toggle\/highwire_responsive_toggle.css.less":1,"sites\/default\/themes\/bmjj\/css\/theme\/bmjj.style.article.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons-glyphs.css":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_corrections.css":1,"sites\/default\/themes\/bmjj\/system.messages.css":1,"sites\/default\/themes\/bmjj\/system.menus.css":1,"sites\/default\/themes\/bmjj\/jquery.bxslider.css":1,"sites\/default\/themes\/bmjj\/css\/base\/normalize.css":1,"sites\/default\/themes\/bmjj\/css\/base\/print.css":1,"sites\/default\/themes\/bmjj\/css\/base\/typography.css":1,"sites\/default\/themes\/bmjj\/css\/layout\/responsive-visibility.css.less":1,"sites\/default\/themes\/bmjj\/css\/layout\/grid\/grid.css.less":1,"sites\/default\/themes\/bmjj\/css\/components\/article.css.less":1,"sites\/default\/themes\/bmjj\/css\/components\/archive.css.less":1,"sites\/default\/themes\/bmjj\/css\/components\/forms.css":1,"sites\/default\/themes\/bmjj\/css\/components\/buttons.css":1,"sites\/default\/themes\/bmjj\/css\/components\/lists.css":1,"sites\/default\/themes\/bmjj\/css\/components\/images.css":1,"sites\/default\/themes\/bmjj\/css\/components\/tables.css":1,"sites\/default\/themes\/bmjj\/css\/components\/code.css":1,"sites\/default\/themes\/bmjj\/css\/components\/highwire\/highwire.style.markup.css":1,"sites\/default\/themes\/bmjj\/css\/components\/jquery.ui\/jquery.ui.theme.css":1,"sites\/default\/themes\/bmjj\/css\/components\/jquery.ui\/tooltip.css":1,"sites\/default\/themes\/bmjj\/css\/components\/jquery.ui\/accordion.css":1,"sites\/default\/themes\/bmjj\/css\/components\/jquery.ui\/dialog.css":1,"sites\/default\/themes\/bmjj\/css\/components\/tabs.css":1,"sites\/default\/themes\/bmjj\/css\/components\/messages.css":1,"sites\/default\/themes\/bmjj\/css\/components\/breadcrumb.css":1,"sites\/default\/themes\/bmjj\/css\/components\/pager.css":1,"sites\/default\/themes\/bmjj\/css\/components\/blocks.css":1,"sites\/default\/themes\/bmjj\/css\/components\/search.css":1,"sites\/default\/themes\/bmjj\/css\/components\/citations.css":1,"sites\/default\/themes\/bmjj\/css\/components\/nice-menus.css":1,"sites\/default\/themes\/bmjj\/css\/components\/menus.css.less":1,"sites\/default\/themes\/bmjj\/css\/components\/chosen.css":1,"sites\/default\/themes\/bmjj\/css\/theme\/theme.css.less":1,"sites\/default\/themes\/bmjj\/css\/theme\/colors.css.less":1,"sites\/default\/themes\/bmjj\/css\/theme\/breakpoints.css.less":1,"sites\/default\/themes\/bmjj\/css\/theme\/ie.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/highwire-forms.css":1},"js":{"sites\/all\/libraries\/enquire.js\/enquire.min.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_panels_ajax_tab.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_openurl.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_google_scholar_sprinkle.js":1,"sites\/all\/themes\/highwire\/axon\/js\/theme-scripts.js":1,"sites\/default\/modules\/jnl_template_bmjj_styles\/js\/svg4everybody\/dist\/svg4everybody.min.js":1,"sites\/default\/modules\/jnl_template_bmjj_styles\/js\/jnl_template_bmjj_svg.js":1,"sites\/default\/modules\/jnl_template_bmjj_styles\/js\/jnl_template_bmjj_altmetrics.js":1,"sites\/all\/libraries\/modernizr\/modernizr.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.equal-heights.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.panels-ajax-tab.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"\/\/cdn.foxycart.com\/bmjpg.ecommerce.highwire.org\/loader.js":1,"sites\/all\/modules\/contrib\/foxycart\/foxycart.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_log\/highwire_log.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_nps_survey\/js\/nps_survey.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/js\/highwire_user_meta.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/default\/modules\/jnl_template_bmjj\/plugins\/content_types\/js\/affix.js":1,"sites\/default\/modules\/jnl_template_bmjj\/plugins\/content_types\/js\/bmjj-modal.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.article-citation-access.js":1,"sites\/all\/modules\/contrib\/panels_ajax_tab\/js\/panels_ajax_tab.js":1,"sites\/default\/modules\/jnl_template_bmjj\/plugins\/highwire_markup_process\/js\/bmjj_author_affiliates.js":1,"https:\/\/d1bxh8uas1mnw7.cloudfront.net\/assets\/embed.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_altmetrics.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_at_symbol.js":1,"sites\/default\/modules\/jnl_template_bmjj\/plugins\/content_types\/js\/bmjj_mobile_article_menu.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/plugins\/styles\/highwire_responsive_toggle\/highwire_responsive_toggle.js":1,"sites\/default\/modules\/contrib\/menu_attach_block\/menu_attach_block.js":1,"sites\/all\/modules\/contrib\/panels_ajax_pane\/panels_ajax_pane.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_foxycart\/highwire_foxycart.js":1,"sites\/default\/themes\/bmjj\/js\/theme-scripts.js":1,"sites\/default\/themes\/bmjj\/js\/oas.js":1,"sites\/default\/themes\/bmjj\/js\/svg4everybody.js":1,"sites\/default\/themes\/bmjj\/js\/jquery.cookieBar.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/js\/highwire-mediaqueries.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"highwire":{"nid":"77428","apath":"\/bjsports\/48\/3\/278.atom","pisa":"bjsports;48\/3\/278","ac":{"\/bjsports\/48\/3\/278.atom":{"access":{"reprint":false,"full":false,"abstract":true},"pisa_id":"","apath":"\/bjsports\/48\/3\/278.atom","jcode":"bjsports"},"bjsports;48\/3\/278":{"access":{"full":false},"pisa_id":"bjsports;48\/3\/278","apath":"","jcode":"bjsports"}},"markup":[{"requested":"long","variant":"abstract","view":"abstract","pisa":"bjsports;48\/3\/278"},{"requested":"abstract","variant":"abstract","view":"abstract","pisa":"bjsports;48\/3\/278"},{"requested":"long","variant":"abstract","view":"abstract","pisa":"bjsports;48\/3\/278"},{"requested":"long","variant":"abstract","view":"abstract","pisa":"bjsports;48\/3\/278"}],"processed":["highwire_math"]},"user_uid":0,"foxycart_subdomain":"bmjpg.ecommerce.highwire.org","foxycart_always_show_cart_link":1,"hw_fc_cookie_domain":".bmj.com","jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"panel_ajax_tab":{"path":"sites\/all\/modules\/contrib\/panels_ajax_tab"},"panels_ajax_pane":{"new-107":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022kifEeAG6ehPrr4h+pHlSevE7NjCKdVJSYhDy5\\\\\\\/Pm9LgHHLz\\\\\\\/wCYDkDYJh8O1dcotZtbTtZYhge+sM39RLD4Ciugrx8JtTHpDq8Ruw5zKrBn1vaK3PfYHlsajL8MEQXZRe\\\\\\\/4JaLjYDrxNAabp9FNuz6aGQlgKw1RecXdo2DNAZjQJMnkFlE4Psu9u2isvlQXt0h+QjqUTwgzjmrUc9IE72DDYybsRV0sJok8ZGI7Q\\\\\\\/+TDcuBEMmM4\\\\\\\/GFQUYnOsVMnNXqsHtixYi9alkjXvuLbhzIsrEEoOxmK7+aGQEJHk9ITFBdWwy9o8AS0N14bbzruEWDHksUIRuCRo5w1FyXXiugG2ol9DcnMC0PQZusOzxhxCp+ecPVTOxLUTLXduMYcv1bX1mfJsN4aTeolE900pFHq77gyTSfWftAyQhdVtR8MANGe1WhcUPLYfs4qVAZGj3dTJfkuwu1Q4+Hj+lUBcVyxKBBphfSMxYx\\\\\\\/2MHsUnKIfcNaB+hgqNGyQoDFLq8lF14hFH0tTi9vXtBwixX1DSrfe5jZvMDudGNCgeYFO0OCJbhX1LtCykPWailEgru3mpTLazBTPLh0EdwnJxoMZ9mXf8f\\\\\\\/Wwfm8Ub57tbPWkXSgwGgSGZHa619cLzdf5lAFanhPFCZHRn9tSryVKwwYNIYIVPsMKyu+n83zdChv9X5m\\\\\\\/7ERgcT1yUBrhSrYfb1Rag8Gt+t980NAQtBCjYT7YlMZWad9RuUz4+\\\\\\\/H78M4t5S+BKMQV92TjYWouvtdEu33H+d1vmaHqfPxNFC92Igta92S88ZbQnC0Sn8QJI6defAq3OHb3YXoS7ixVsaBGasrvP8m4eIFTjV7XJHziYFcoQMPYtNfKcsrf7uQrbDUmp7Vq3s2RfiQas+pgufXanE8KisTwCqsdkILLYF0jqle61HG6pXJgknSI5x06jzEhG87Y37JDh0aCFgafjcpLQxZigHiWImXIocU4halU4ack41T3THdyc3PyGylOyO82MxWv1X1kX6HOpPwueJ9WNYZWlJTsksexKzgxXi7TWqR0Bt3HC7uHM7bzQkn0sgcPnvARIrG8fPgw3HOeI4M2SVWeCjbeV3eXAehJKPnrZUOUPK9Uws+MBAQozb1vTvmYyZM\\\\\\\/jYG3VS1txvSZjTkWbgPEfkA68Wr3sCTZI8nFmh7QpdYc\\\\\\\/IICYZhcCcGpXHklbyTYqc\\\\\\\/volUsTFV\\\\\\\/wREGYhaRWNXcQltvElMUC5L2pbE54fiq1v2WymI81GYJ9LDQoTQsDyiqziNvi\\\\\\\/OSZKaTV+Fid8OdkQQFINiCDK4txb+ltLDFnbfPJeJJQoTTeW7CSTLlVAHJZ51GmwKR9uX40Dl\\\\\\\/fVQatzaQSfOwojQ5sV3x3eYJr\\\\\\\/DhSMY33fMqlkY2eOxX7srZ\\\\\\\/ebF0X0GQa+ftCirR46Ac9i9h+7FX8HXcgFLZNfEna8dJ8z2bvDCEayAxoi3bTgh6MmqPS7bz0oM3HesTZqg2OE6Ah5Ka3z7ECHri3FY7ez1ctQF\\\\\\\/j8FYSWEmsXMTBjpaTsHI6Q0D6ewnOFufpwTR15qqyv4g8NURHLfjTmxsllBfNqAcbWsFmTRwTc+2VCvFlYLvgxqD0zXF47j1Wo\\\\\\\/qLy35b660L1o1TpCayq7CBXToranEf7A4oFiULWo2WWPFCBTjac34Do98wemCpcQ6eriC3F8KT01FvjqLCa6MAHRFV9qMF6UxpO3eMmuIL6QMc1udi0u2eHaWMfXGqlz5DGN7s2Y+KLStac3xmRQNkqIsC9tkpgUOW8ZsSWcBf4nw8hu1s4\\\\\\\/aaFu9opdm8GncljmKz0QQ6d1TCTxwoN9qQGwglMhZttWuxNag941Quh98PHdcT3Siig5kaEZkchtasQiWWQ0MuEFzIN+y1Ipu8RXKltQpOzR2MgkNfv9KLi36up0RAxjbKVCuwE8n\\\\\\\/rJTwN8VI5CRf1gaBx2D3JA8J3RIBL7ay7ZxlsL14mfkeouKnvynyVfXGXXdzx1ODBoYqnk6HQhFtO\\\\\\\/Ho\\\\\\\/A+luP1LMfKe7T9L1EAmuJKWCe0x828SF\\\\\\\/hV7HXndRjvAHpVw93zNtn5IRhN5Yz\\\\\\\/1G6oQYgj8ZuklQCQ+TFjUOg3TadWEs\\\\\\\/rNM9qhlM7zUsmRIQjdkjRcPIzDrb3tnUJqQRPsyYYjIsUCtReWZ6uDKHsb1N7gvlcby\\\\\\\/ZEmwvLhdemtVCguM5+V3R7uo3XEKkk\\\\\\\/7s9zs7BJxjHakji+LcZUpIMeGfbpr1kLn6dzS3nVv\\\\\\\/3uWf4WJd6Uqv0N9sph6JAYIWSUxmq9qj2L1aOYBnIixBAT6ffpabTcyVo9YDp0zyiLRmkDD3n3ZW9fzA1DiV\\\\\\\/Qft3K+xKRr\\\\\\\/jUx1b8mGodRGNRBacEdbgi0XYCEVPuw+yyadWukbTzLq46nK20QFALhL1AMO0rpIKoi41FrkCBkW90CHTxreDM1tCICyf+eR6yEanIDURsB5KozS0JxWGqJKlwteyYW09vGY1WKfOZ\\\\\\\/as63sPygP9AvkhAdDknE51avsF4sB9hyjQ8XX6XrEPg==\\\u0022,\\\u0022iv\\\u0022:\\\u0022l4+mRjsLtSqmzIdO22aMjA==\\\u0022,\\\u0022salt\\\u0022:\\\u002277755169399ff8b864fdf32a22743afc\\\u0022}\u0022,\u0022hmac\u0022:\u0022ca212499b6fa8fc1512d1372d5880fd09ca784aa61ed0251c1a7fe183b6de209\u0022}"},"MutationObserver":{"js":"\/sites\/all\/libraries\/mutationobserver\/MutationObserver.js"},"highwire_foxycart_add_to_cart_link":{"apath":"\/bjsports\/48\/3\/278.atom","text":"Buy this article","type":"link"},"urlIsAjaxTrusted":{"\/content\/48\/3\/278":true},"highwireResponsive":{"enquire_enabled":1,"breakpoints_configured":1,"breakpoints":{"narrow":"all and (min-width: 768px) and (min-device-width: 768px), (max-device-width: 800px) and (min-width: 768px) and (orientation:landscape)","normal":"all and (min-width: 1024px) and (min-device-width: 1024px), all (max-width: 1220px) and (max-device-width: 1220px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 10]><script src="http://bjsm.bmj.com/sites/all/themes/highwire/axon/js/media.match.min.js" type="text/javascript"></script><![endif]-->
+  <!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="/sites/default/themes/bmjj/css/theme/ie-7-8.css" /><![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-77428 node-type-highwire-article">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5GX2HF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0];var j=d.createElement(s);var dl=l!='dataLayer'?'&l='+l:'';j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;j.type='text/javascript';j.async=true;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5GX2HF');</script>
+<!-- End Google Tag Manager -->
+    <div id="skip-link">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+
+<div  class="page" id="page">
+  <section class="container-fluid content-header">
+    <section class="row cookie-message-section">
+      <div id="cookie-notice" class="col-mobile-12">
+        <span class="cookie-all">This site uses cookies.</span>
+        <a class="more-info mobile-only">More info<svg class="icon-white icon-arrow-down" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-arrow-down"></use><svg></svg></svg></a>
+
+        <span class="btn-close">
+          <a id="mobile-nav-close" href="#" class="wrap-icon"><svg class="icon-white icon-close" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-close"></use><svg></svg></svg></a>
+        </span>
+
+        <span class="more-info-text mobile-hidden">By continuing to browse the site you are agreeing to our use of cookies. <a href="http://company.bmj.com/privacy-policy/#cookies"> Find out more here</a></span>
+      </div>
+    </section>
+    <header role="banner" class="section section-header row">
+
+      <div class="zone zone-superheader">
+        <div class="region region-superheader">
+          <div class="region-inner region-superheader-inner">
+              <div class="region region-superheader">
+    <div id="block-panels-mini-jnl-template-bmjj-uid-strng" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-jnl_template_bmjj_uid_strng">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-highwire-inst-branding" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="col-narrow-12 ad-snippet col-normal-12"><div id="oas_Top"></div><script type="text/javascript">oas_tag.loadAd("Top");</script></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+          </div>
+        </div><!-- /.region-superheader -->
+      </div><!-- /.zone-super-header -->
+
+      <div class="site-info mobile-hidden">
+        
+              </div><!-- /.site-info -->
+      <div class="zone zone-header row mobile-hidden">
+        <div class="region region-header">
+          <div class="region-inner region-header-inner">
+              <div class="region region-header">
+    <div id="block-panels-mini-feedbackify" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-feedbackify">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-7" >
+  
+      
+  
+  <div class="pane-content">
+    <!-- Feedbackify third party software -->
+<script type="text/javascript">
+var fby = fby || [];
+fby.push(['showTab',
+{id: '11171', position: 'right', color: '#CD202C'}
+]);
+(function ()
+{ var f = document.createElement('script'); f.type = 'text/javascript'; f.async = true; f.src = '//cdn.feedbackify.com/f.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(f, s); }
+)();
+</script>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+           </div>
+         </div><!-- ./region-header -->
+      </div><!-- /.zone-header -->
+    </header> <!-- /.section-header -->
+    <section class="row visible-sm visible-md visible-lg header header-platform mobile-hidden">
+      <div class="col-narrow-3 col-normal-3 col-large-3 logo-bmj">
+        <div class="l-inline">
+          <p class="logo-bmj-journals"><a href="http://journals.bmj.com/" title="BMJ Journals"><img src="/sites/default/themes/bmjj/img/logos/logo-bmj-journals.svg" title="BMJ Journals" alt="BMJ Journals"/>
+</a></p>
+                  </div>
+      </div>
+      <div class="col-narrow-9 col-normal-9 col-large-9 no-right-padding">
+                  <div class="region region-top">
+            <div class="region-inner">
+                <div class="region region-platmenu">
+    <div id="block-menu-menu-platform-menu" class="block block-menu" class="block block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/subscribe" data-hide-link-title="0" class="" data-icon-position="">Subscribe</a></li>
+<li class="leaf"><a href="/" id="menu-login" class="drop-menu link-icon-right link-icon"><span class="title">Log In</span> <span class="icon icon-arrow-down"></span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|challenge_opportunity_pane_dropdown" id="&lt;front&gt;-drop-link-728" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-challenge-opportunity-pane-dropdown" class="block block-panels-mini article-login bmjj-login" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-challenge_opportunity_pane_dropdown-2">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-society-logins society-logins" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="ui-button ui-state-default ui-dialog-titlebar-close" title="close"></span><div class="shib-login-link"><a href="/login/shibboleth?subcode=bmjjournals&amp;env=prod&amp;uri=http%3A//bjsm.bmj.com/" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via Institution</a></div><div class="openathens-login-link"><a href="https://openathens.highwire.org/initiate-login?subcode=bmjjournals&amp;returnURL=http%3A//bjsm.bmj.com/content/48/3/278" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via OpenAthens</a></div><div class="society-login-dropdown"><label class="society-label" for="society-login-select--4">Log in via your Society</label><select class="form-control society_logins_select form-select" onchange="window.location.href = jQuery(this).val();" id="society-login-select--4"><option value="">Select your society</option><option value="http://casem-acmse.org/fr/">ACMSE</option><option value="https://www.physiosinsport.org/customer/account/login/">ACPSEM</option><option value="http://www.acsp.org.au/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">ACSEP</option><option value="http://www.amssm.org/JournalLinks.php">AMSSM</option><option value="http://www.basem.co.uk/login/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">BASEM</option><option value="http://www.basrat.org/member">BASRAT</option><option value="http://casem-acmse.org/members-only-content/british-journal-sport-medicine/">CASEM</option><option value="http://www.clinicaledge.com.au/users/login">CLINICAL EDGE</option><option value="http://www.ecosep.eu/en/!Login/">ECOSEP</option><option value="http://www.gissport.it/index.php?">GISSPORT</option><option value="http://learn.sportsoracle.com/diploma-1/part-1/bjsm">IOC</option><option value="http://oscamembers.wildapricot.org/Member-Benefits">OSCA</option><option value="http://www.sasma.org.za/members/index.php">SASMA</option><option value="https://sgsm.ch/etc/login/">SGMS</option><option value="https://secure.sma.org.au/ei/cm.esp?id=37&amp;start=eiscript&amp;cd=3069&amp;pageid=LOGIN">SMA</option><option value="http://www.sportphysio.ca/benefits-of-membership/bjsm-login/">SPC</option><option value="http://sportsphysiotherapy.org.nz/wp-login.php?redirect_to=http%3A%2F%2Fsportsphysiotherapy.org.nz%2Fmembers%2Fbjsm%2F">SPNZ</option><option value="https://sgsm.ch/fr/etc/login/">SSMS</option><option value="http://www.sportfisio.ch/wp-login.php?redirect_to=http%3A%2F%2Fwww.sportfisio.ch%2Fwp-admin%2F&amp;reauth=1">SSPA</option><option value="http://www.society-of-sports-therapists.org/index.php/members/bjsm_portal">SST</option><option value="https://suft-fi.directo.fi/jasenhuone/">SUFT</option><option value="http://www.sportgeneeskunde.com/user">VSG</option></select></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-opportunity-challenge" >
+  
+      
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-login'><h3>Log in using your username and password</h3><div class="drupal-login compact"><form action="/content/48/3/278" method="post" id="highwire-user-login--4" accept-charset="UTF-8"><div><div id="edit-customtext--4" class="form-item form-item-label-before form-type-item">
+ <span class="customtext">For personal accounts OR managers of institutional accounts</span>
+</div>
+<div class="form-item form-item-label-invisible form-type-textfield form-item-name">
+  <label class="element-invisible" for="edit-name--4">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name--4" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-item-label-invisible form-type-password form-item-pass">
+  <label class="element-invisible" for="edit-pass--4">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass--4" name="pass" size="30" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-LLZatMvkepoXqZ_Uqw0plnZjo_SLS6aefg6SAAyjovg" />
+<input type="hidden" name="form_id" value="highwire_user_login" />
+<div class="bmjj-reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot your log in details?</a><a href="/user/register?destination=node/77428" class="" data-icon-position="" data-hide-link-title="0">Register a new account?</a></div><div class="form-actions form-wrapper" id="edit-actions--4"><input type="submit" id="edit-submit--5" name="op" value="Log in" class="form-submit" /></div><div class="reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot</a> your user name or password?</div></div></form></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><a href="/cart" class="link-icon-right link-icon"><span class="title">Basket</span> <span class="icon icon-basket"></span></a></li>
+<li class="last leaf"><a href="/search" id="menu-search" class="drop-menu link-icon-right link-icon"><span class="title">Search</span> <span class="icon icon-search"></span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|jnl_template_bmjj_search_box" id="search-drop-link-729" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-jnl-template-bmjj-search-box" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display one-layout " id="mini-panel-jnl_template_bmjj_search_box-1">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-seach-quicksearch block-search pull-left" >
+  
+      
+  
+  <div class="pane-content">
+    <form class="highwire-quicksearch button-style-mini button-style-mini" action="/content/48/3/278" method="post" id="highwire-search-quicksearch-form-1" accept-charset="UTF-8"><div><div class="form-item form-item-label-invisible form-type-textfield form-item-keywords">
+  <label class="element-invisible" for="edit-keywords--2">Search for this keyword </label>
+ <input placeholder="search" type="text" id="edit-keywords--2" name="keywords" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="edit-submit--6" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-bPAyaXoF0fQSjoqqfhKgDuwyfv9HTTM_-1LTq-sjBKQ" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form_1" />
+</div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-10 pull-right advanced-search-link" >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/search">Advanced search</a>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+</ul>  </div>
+</div>
+  </div>
+            </div>
+          </div><!-- /.region-top -->
+                </div>
+    </section>
+        <div class="row header header-journal">
+      <div class="col-mobile-7 col-narrow-4 col-normal-4 logo-journal">
+                <a href="/"><img src="http://resources.bmj.com/repository/journals-network-project/images/journal-logos/logo-bjsm.svg" alt="British Journal of Sports Medicine" id="logo-img"></a>
+      </div>
+            <div class="col-mobile-5 col-narrow-8 col-normal-8 no-right-padding nav-journal">
+          <div class="region region-journmenu">
+    <div id="block-system-main-menu" class="block block-system mobile-hidden block-menu" class="block block-system mobile-hidden block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/content/early/recent" class="" data-icon-position="" data-hide-link-title="0">Latest content</a></li>
+<li class="leaf"><a href="/content/current" class="" data-icon-position="" data-hide-link-title="0">Current issue</a></li>
+<li class="leaf"><a href="/content/by/year" class="" data-icon-position="" data-hide-link-title="0">Archive</a></li>
+<li class="leaf"><a href="http://bjsm.bmj.com/pages/authors/" class="" data-icon-position="" data-hide-link-title="0">Authors</a></li>
+<li class="last leaf"><a href="http://bjsm.bmj.com/pages/about/" class="" data-icon-position="" data-hide-link-title="0">About</a></li>
+</ul>  </div>
+</div>
+<div id="block-panels-mini-mobile-slide-out-menu" class="block block-panels-mini mobile-only" class="block block-panels-mini mobile-only">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-mobile_slide_out_menu">
+  <div class="panel-panel panel-col">
+    <div><div id="" class="highwire-responsive-toggle-group"><div class="panel-pane pane-panels-mini pane-jnl-template-bmjj-search-box" >
+  
+        <h2  class="pane-title"><span class="icon-search"></span></h2>
+    
+  
+  <div class="pane-content">
+    <div class="panel-display one-layout " id="mini-panel-jnl_template_bmjj_search_box">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-seach-quicksearch block-search pull-left" >
+  
+      
+  
+  <div class="pane-content">
+    <form class="highwire-quicksearch button-style-mini button-style-mini" action="/content/48/3/278" method="post" id="highwire-search-quicksearch-form-0" accept-charset="UTF-8"><div><div class="form-item form-item-label-invisible form-type-textfield form-item-keywords">
+  <label class="element-invisible" for="edit-keywords">Search for this keyword </label>
+ <input placeholder="search" type="text" id="edit-keywords" name="keywords" value="" size="60" maxlength="128" class="form-text" />
+</div>
+<input data-icon-only="1" data-font-icon="icon-search" data-icon-position="after" type="submit" id="edit-submit--3" name="op" value="Search" class="form-submit" /><input type="hidden" name="form_build_id" value="form-Uy6ygBXwxY-WSoXo3z6L2S9uqOsVBoFYAjemTKadiOY" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form_0" />
+</div></form>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-8 pull-right advanced-search-link" >
+  
+      
+  
+  <div class="pane-content">
+    <a href="/search">Advanced search</a>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-block pane-menu-menu-mobile-slideout-menu pane-menu" >
+  
+        <h2  class="pane-title"><span class="icon-menu"></span></h2>
+    
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="first leaf"><a href="/" class="menu-close link-icon-only link-icon"><span class="icon icon-close"></span> <span class="title element-invisible">Close</span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|mobile_slide_out_autobot_menu" id="&lt;front&gt;-drop-link-781" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-mobile-slide-out-autobot-menu" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display one-layout " id="mini-panel-mobile_slide_out_autobot_menu">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-menu-tree pane-main-menu" >
+  
+        <h2  class="pane-title">Main menu</h2>
+    
+  
+  <div class="pane-content">
+    <div class="menu-block-wrapper menu-block-ctools-main-menu-1 menu-name-main-menu parent-mlid-main-menu:0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-10368"><a href="/content/early/recent" class="" data-icon-position="" data-hide-link-title="0">Latest content</a></li>
+<li class="leaf menu-mlid-10369"><a href="/content/current" class="" data-icon-position="" data-hide-link-title="0">Current issue</a></li>
+<li class="leaf menu-mlid-10370"><a href="/content/by/year" class="" data-icon-position="" data-hide-link-title="0">Archive</a></li>
+<li class="leaf menu-mlid-10371"><a href="http://bjsm.bmj.com/pages/authors/" class="" data-icon-position="" data-hide-link-title="0">Authors</a></li>
+<li class="last leaf menu-mlid-10372"><a href="http://bjsm.bmj.com/pages/about/" class="" data-icon-position="" data-hide-link-title="0">About</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+<li class="leaf"><a href="/subscribe" data-hide-link-title="0" class="callout-link" data-icon-position="">Subscribe</a></li>
+<li class="leaf"><a href="/" class="mobile-drop-down callout-link link-icon-right link-icon"><span class="title">Log in</span> <span class="icon icon-plus"></span></a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click" data-block-id="panels_mini|jnl_template_bmjj_login" id="&lt;front&gt;-drop-link-780" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-jnl-template-bmjj-login" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-jnl_template_bmjj_login">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-society-logins society-logins opportunity-challenge-login" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="ui-button ui-state-default ui-dialog-titlebar-close" title="close"></span><div class="shib-login-link"><a href="/login/shibboleth?subcode=bmjjournals&amp;env=prod&amp;uri=http%3A//bjsm.bmj.com/" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via Institution</a></div><div class="openathens-login-link"><a href="https://openathens.highwire.org/initiate-login?subcode=bmjjournals&amp;returnURL=http%3A//bjsm.bmj.com/content/48/3/278" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via OpenAthens</a></div><div class="society-login-dropdown"><label class="society-label" for="society-login-select--3">Log in via your Society</label><select class="form-control society_logins_select form-select" onchange="window.location.href = jQuery(this).val();" id="society-login-select--3"><option value="">Select your society</option><option value="http://casem-acmse.org/fr/">ACMSE</option><option value="https://www.physiosinsport.org/customer/account/login/">ACPSEM</option><option value="http://www.acsp.org.au/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">ACSEP</option><option value="http://www.amssm.org/JournalLinks.php">AMSSM</option><option value="http://www.basem.co.uk/login/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">BASEM</option><option value="http://www.basrat.org/member">BASRAT</option><option value="http://casem-acmse.org/members-only-content/british-journal-sport-medicine/">CASEM</option><option value="http://www.clinicaledge.com.au/users/login">CLINICAL EDGE</option><option value="http://www.ecosep.eu/en/!Login/">ECOSEP</option><option value="http://www.gissport.it/index.php?">GISSPORT</option><option value="http://learn.sportsoracle.com/diploma-1/part-1/bjsm">IOC</option><option value="http://oscamembers.wildapricot.org/Member-Benefits">OSCA</option><option value="http://www.sasma.org.za/members/index.php">SASMA</option><option value="https://sgsm.ch/etc/login/">SGMS</option><option value="https://secure.sma.org.au/ei/cm.esp?id=37&amp;start=eiscript&amp;cd=3069&amp;pageid=LOGIN">SMA</option><option value="http://www.sportphysio.ca/benefits-of-membership/bjsm-login/">SPC</option><option value="http://sportsphysiotherapy.org.nz/wp-login.php?redirect_to=http%3A%2F%2Fsportsphysiotherapy.org.nz%2Fmembers%2Fbjsm%2F">SPNZ</option><option value="https://sgsm.ch/fr/etc/login/">SSMS</option><option value="http://www.sportfisio.ch/wp-login.php?redirect_to=http%3A%2F%2Fwww.sportfisio.ch%2Fwp-admin%2F&amp;reauth=1">SSPA</option><option value="http://www.society-of-sports-therapists.org/index.php/members/bjsm_portal">SST</option><option value="https://suft-fi.directo.fi/jasenhuone/">SUFT</option><option value="http://www.sportgeneeskunde.com/user">VSG</option></select></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-opportunity-challenge" >
+  
+      
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-login'><h3>Log in using your username and password</h3><div class="drupal-login compact"><form action="/content/48/3/278" method="post" id="highwire-user-login--3" accept-charset="UTF-8"><div><div id="edit-customtext--3" class="form-item form-item-label-before form-type-item">
+ <span class="customtext">For personal accounts OR managers of institutional accounts</span>
+</div>
+<div class="form-item form-item-label-invisible form-type-textfield form-item-name">
+  <label class="element-invisible" for="edit-name--3">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name--3" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-item-label-invisible form-type-password form-item-pass">
+  <label class="element-invisible" for="edit-pass--3">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass--3" name="pass" size="30" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-FeaAarCOId2MDhNOq15j0nwJmyvORpQnpP-0Xst7J7o" />
+<input type="hidden" name="form_id" value="highwire_user_login" />
+<div class="bmjj-reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot your log in details?</a><a href="/user/register?destination=node/77428" class="" data-icon-position="" data-hide-link-title="0">Register a new account?</a></div><div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--4" name="op" value="Log in" class="form-submit" /></div><div class="reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot</a> your user name or password?</div></div></form></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+<li class="last leaf"><a href="http://journals.bmj.com/" data-hide-link-title="0" class="bmj-link" data-icon-position="">BMJ Journals</a>
+<a href="# " class="menu-attach-block-drop-link external expand-on-click dropped" data-block-id="panels_mini|jnl_template_bmjj_uid_strng_side" id="http://journals.bmj.com/-drop-link-0" data-icon-position="" data-hide-link-title="0">More</a><div class="menu-attach-block-wrapper">
+	<div id="block-panels-mini-jnl-template-bmjj-uid-strng-side" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-jnl_template_bmjj_uid_strng_side">
+  <div class="panel-panel panel-col">
+    <div></div>
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</li>
+</ul>  </div>
+
+  
+  </div>
+</div></div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+      </div><!-- /.region-top -->
+          </div>
+          </section>
+  <section role="main" class="section section-content container-fluid">
+        <div class="crumb-navigation">
+      <div class="row">
+        <div class="col-mobile-12 col-narrow-9 col-normal-9  col-wide-10 breadcrumbs">
+          <h2 class="element-invisible">You are here</h2><div class="item-list"><ul class="breadcrumb"><li class="first"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Home</a></li>
+<li><a href="/content/by/year" class="" data-icon-position="" data-hide-link-title="0">Archive</a></li>
+<li><a href="/content/48/3" class="" data-icon-position="" data-hide-link-title="0">Volume 48,&nbsp;Issue 3 </a></li>
+<li class="last"><span class="active">Impact of accelerometer wear time on physical activity data: a NHANES semisimulation data approach</span></li>
+</ul></div>        </div>
+        <div class="mobile-hidden col-narrow-3 col-normal-3 col-wide-2 email-alerts">
+          <span>
+            <a href="/alerts" class="email-alerts-label"><i class="icon icon-article-alerts"></i> Email alerts</a>
+          </span>
+        </div>
+      </div>
+    </div>
+            <div class="container">
+          <div class="zone zone-content row">
+        <div class="region region-content col-narrow-12">
+          <div class="region-inner region-content-inner">
+            <a id="main-content"></a>
+                                                                                                  <div class="region region-content">
+    <div id="block-system-main" class="block block-system" class="block block-system">
+
+    
+  <div class="content">
+    <div class="panel-display two-layout " >
+    <div class="panel-row-wrapper panel-row-first row">
+    
+    <div class="top-wrapper col-narrow-12">
+      <div class="panel-panel panel-region-top">
+        <div class="inside"><div class="panel-pane pane-panels-mini pane-article-tabset-mobile mobile-only"  id="mobile-article-tab-container">
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-display two-layout " id="mini-panel-article_tabset_mobile_">
+    
+  <div class="panel-row-wrapper row">
+    
+    <div class="left-wrapper col-mobile-6">
+      <div class="panel-panel panel-region-left">
+        <div class="inside"><div class="panel-pane pane-bmjj-mob-tab-title"  id="mobile-tab-title">
+  
+      
+  
+  <div class="pane-content">
+    <p><span class="icon-article-text"></span>Article Text</p>  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+    
+    <div class="right-wrapper col-mobile-6">
+      <div class="panel-panel panel-region-right">
+        <div class="inside"><div class="panel-pane pane-bmjj-mobile-article-menu" >
+  
+      
+  
+  <div class="pane-content">
+    <a href="#block-system-main" class="mobile-article-tab" data-icon-position="" data-hide-link-title="0">Article menu <span class="icon-plus icon-toggle"></span></a><div class="mobile-art-drop-down"></div>  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+  
+  </div> <!-- /.panel-row-wrapper -->  
+  
+  </div>
+
+  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+  
+  </div> <!-- /.panel-row-wrapper -->  
+    
+  <div class="panel-row-wrapper row relative" id="article-top">
+    
+    <div class="left-wrapper col-narrow-2 col-normal-1 col-wide-1 tab-pane">
+      <div class="panel-panel panel-region-left">
+        <div class="inside"><div class="panel-pane pane-highwire-panel-tabs pane-panels-ajax-tab-tabs nav nav-tabs nav-stacked articleToolbar mobile-hidden"  id="nav-tabs">
+  
+      
+  
+  <div class="pane-content">
+    <div class="item-list"><ul class="tabs inline panels-ajax-tab"><li class="active first"><a href="/content/48/3/278" class="panels-ajax-tab-tab" data-panel-name="jnl_template_bmjj_tab_art" data-target-id="highwire_article_tabs" data-entity-context="node:77428" data-trigger="" data-url-enabled="1"><span class="icon-article-text"></span>Article <br/>Text</a><a href="/panels_ajax_tab/jnl_template_bmjj_tab_art/node:77428/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class=""><a href="/content/48/3/278.info" class="panels-ajax-tab-tab" data-panel-name="jnl_template_bmjj_art_info" data-target-id="highwire_article_tabs" data-entity-context="node:77428" data-trigger="info" data-url-enabled="1"><span class="icon-article-info"></span>Article <br/>info</a><a href="/panels_ajax_tab/jnl_template_bmjj_art_info/node:77428/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class=""><a href="/content/48/3/278.citation-tools" class="panels-ajax-tab-tab" data-panel-name="jnl_template_bmjj_cite_tool" data-target-id="highwire_article_tabs" data-entity-context="node:77428" data-trigger="citation-tools" data-url-enabled="1"><span class="icon-citation-tools"></span>Citation <br/>Tools</a><a href="/panels_ajax_tab/jnl_template_bmjj_cite_tool/node:77428/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class=""><a href="/content/48/3/278.share" class="panels-ajax-tab-tab" data-panel-name="jnl_template_bmjj_share" data-target-id="highwire_article_tabs" data-entity-context="node:77428" data-trigger="share" data-url-enabled="1"><span class="icon-share"></span>Share</a><a href="/panels_ajax_tab/jnl_template_bmjj_share/node:77428/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class=""><a href="/content/48/3/278.responses" class="panels-ajax-tab-tab" data-panel-name="jnl_template_bmjj_tab_elets" data-target-id="highwire_article_tabs" data-entity-context="node:77428" data-trigger="responses" data-url-enabled="1"><span class="icon-responses"></span>Responses</a><a href="/panels_ajax_tab/jnl_template_bmjj_tab_elets/node:77428/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class=""><a href="/content/48/3/278.altmetrics" class="panels-ajax-tab-tab" data-panel-name="jnl_template_bmjj_tab_altmetrics" data-target-id="highwire_article_tabs" data-entity-context="node:77428" data-trigger="altmetrics" data-url-enabled="1"><span class="icon-article-stats"></span>Article <br/>metrics</a><a href="/panels_ajax_tab/jnl_template_bmjj_tab_altmetrics/node:77428/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class=" last"><a href="/content/48/3/278.alerts" class="panels-ajax-tab-tab" data-panel-name="jnl_template_bmjj_art_alert" data-target-id="highwire_article_tabs" data-entity-context="node:77428" data-trigger="alerts" data-url-enabled="1"><span class="icon-article-alerts"></span>Alerts</a><a href="/panels_ajax_tab/jnl_template_bmjj_art_alert/node:77428/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+</ul></div>  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+    
+    <div class="right-wrapper col-narrow-9 col-normal-10 col-wide-10 article-pane panel-region-main">
+      <div class="panel-panel panel-region-right">
+        <div class="inside"><div class="panel-pane pane-bmjj-challenge-modal col-mobile-2 col-narrow-1 pull-right " >
+  
+      
+  
+  <div class="pane-content">
+    <a href="" class="" data-icon-position="" data-hide-link-title="0"><a href="#" id="chal-modal" class="article-pdf-download">PDF</a></a>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-entity-field pane-node-field-highwire-article-cat article-category col-narrow-10" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="field field-name-field-highwire-article-cat field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Original article</div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-article-citation col-mobile-10 col-narrow-11 article-title" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="77428" id="node77428" data-pisa="bjsports;48/3/278" data-pisa-master="bjsports;bjsports-2012-091410" data-apath="/bjsports/48/3/278.atom"><cite  class="highwire-cite highwire-cite-highwire-article highwire-citation-bmjj-title clearfix">
+      <div class="highwire-cite-title">Impact of accelerometer wear time on physical activity data: a NHANES semisimulation data approach</div>        <span class="highwire-cite-access"><span class="highwire-citation-access highwire-citation-access-check" data-pisa-id="bjsports;bjsports-2012-091410" data-atom-uri="/bjsports/48/3/278.atom" data-request-view="full"></span></span>
+  </cite>
+</div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-panel-tabs-container col-narrow-12 clear" >
+  
+      
+  
+  <div class="pane-content">
+    <div data-panels-ajax-tab-preloaded="jnl_template_bmjj_tab_art" id="panels-ajax-tab-container-highwire_article_tabs" class="panels-ajax-tab-container"><div class="panels-ajax-tab-loading" style ="display:none"><img class="loading" src="http://bjsm.bmj.com/sites/all/modules/contrib/panels_ajax_tab/images/loading.gif" alt="Loading" title="Loading" /></div><div class="panels-ajax-tab-wrap-jnl_template_bmjj_tab_art"><div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-markup author-affiliates col-narrow-12 author-affiliates-corresp article" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="contributors"><ol class="contributor-list" id="contrib-group-1"><li class="contributor" id="contrib-1"><span class="name">Stephen D Herrmann</span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a>, </li><li class="contributor" id="contrib-2"><span class="name">Tiago V Barreira</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a>, </li><li class="contributor" id="contrib-3"><span class="name">Minsoo Kang</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a>, </li><li class="last" id="contrib-4"><span class="name">Barbara E Ainsworth</span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a></li></ol><ol class="affiliation-list"><li class="aff"><a id="aff-1" name="aff-1"></a><address>
+<sup>1</sup>Cardiovascular Research Institute, University of Kansas Medical Center, Kansas City, Kansas, USA</address></li><li class="aff"><a id="aff-2" name="aff-2"></a><address>
+<sup>2</sup>Division of Population Science, Pennington Biomedical Research Center, Baton Rouge, Louisiana, USA</address></li><li class="aff"><a id="aff-3" name="aff-3"></a><address>
+<sup>3</sup>Health and Human Performance, Middle Tennessee State University, Murfreesboro, Tennessee, USA</address></li><li class="aff"><a id="aff-4" name="aff-4"></a><address>
+<sup>4</sup>Department of Exercise and Wellness, Arizona State University, Phoenix, Arizona, USA</address></li></ol><ol class="corresp-list"><li class="corresp" id="corresp-1"><span class="corresp-label">Correspondence to</span> Dr Stephen D Herrmann, Department of Internal Medicine, Cardiovascular Research Institute, Center for Physical Activity and Weight Management, University of Kansas Medical Center, 1301 SunnysideAve—Robinson: Room 100, Lawrence, KS 66045, USA; <span class="em-link"><span class="em-addr">sherrmann{at}ku.edu</span></span></li></ol></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-markup" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div class="article abstract-view "><span class="highwire-journal-article-marker-start"></span><div class="section abstract" id="abstract-1"><h2>Abstract</h2><div id="sec-1" class="subsection">
+
+<p id="p-1"><strong>Background</strong> Current research practice employs wide-ranging accelerometer wear time criteria to identify a valid day of physical activity (PA) measurement.</p>
+</div><div id="sec-2" class="subsection">
+
+<p id="p-2"><strong>Objective</strong> To evaluate the effects of varying amounts of daily accelerometer wear time on PA data.</p>
+</div><div id="sec-3" class="subsection">
+
+<p id="p-3"><strong>Methods</strong> A total of 1000 days of accelerometer data from 1000 participants (age=38.7±14.3 years; body mass index=28.2±6.7 kg/m<sup>2</sup>) were selected from the 2005–2006 National Health and Nutrition Examination Study data set. A reference data set was created using 200 random days with 14 h/day of wear time. Four additional samples of 200 days were randomly selected with a wear time of 10, 11, 12 and 13 h/day<sup>1</sup>. These data sets were used in day-to-day comparison to create four semisimulation data sets (10, 11, 12, 13 h/day) from the reference data set. Differences in step count and time spent in inactivity (&lt;100 cts/min), light (100–1951 cts/min), moderate (1952–5724 cts/min) and vigorous (≥5725 cts/min) intensity PA were assessed using repeated-measures analysis of variance and absolute percent error (APE).</p>
+</div><div id="sec-4" class="subsection">
+
+<p id="p-4"><strong>Results</strong> There were significant differences for moderate intensity PA between the reference data set and semisimulation data sets of 10 and 11 h/day. Differences were observed in 10–13 h/day<sup>1</sup> for inactivity and light intensity PA, and 10–12 h/day for steps (all p values &lt;0.05). APE increased with shorter wear time (13 h/day=3.9–14.1%; 12 h/day=9.9–15.2%, 11 h/day=17.1–35.5%; 10 h/day=24.6–40.3%).</p>
+</div><div id="sec-5" class="subsection">
+
+<p id="p-5"><strong>Discussion</strong> These data suggest that using accelerometer wear time criteria of 12 h/day or less may underestimate step count and time spent in various PA levels.</p>
+</div>
+</div><ul class="kwd-group"><li class="kwd">Physical activity measurement</li><li class="kwd">Physical activity and exercise methodology</li><li class="kwd">Measurement</li></ul><span class="highwire-journal-article-marker-end"></span></div></div><a href="http://bjsm.bmj.com/content/48/3/278.full" class="hw-link hw-link-article-full-text" data-icon-position="" data-hide-link-title="0">View Full Text</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-snippet pane-jnl-template-bmjj-art-middle-ad oas-ads oas-ads-mid pull-right" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="snippet jnl-template-bmjj-art-middle-ad" id="jnl-template-bmjj-art-middle-ad">
+  
+      
+  <div class="snippet-content">
+     <div id="oas_Middle1"><script type="text/javascript">oas_tag.loadAd("Middle1");</script></div>
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-1" >
+  
+      
+  
+  <div class="pane-content">
+    <p><a href="http://dx.doi.org/10.1136/bjsports-2012-091410" target="_new">http://dx.doi.org/10.1136/bjsports-2012-091410</a></p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-altmetrics" >
+  
+        <h2  class="pane-title">Statistics from Altmetric.com</h2>
+    
+  
+  <div class="pane-content">
+    <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1136/bjsports-2012-091410" data-hide-no-mentions="true" class="altmetric-embed"></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-markup" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div class="article abstract-view "><span class="highwire-journal-article-marker-start"></span><ul class="kwd-group"><li class="kwd"><a href="/keyword/physical-activity-measurement" class="hw-term hw-article-keyword hw-article-keyword-physical-activity-measurement" rel="nofollow">Physical activity measurement</a></li><li class="kwd"><a href="/keyword/physical-activity-and-exercise-methodology" class="hw-term hw-article-keyword hw-article-keyword-physical-activity-and-exercise-methodology" rel="nofollow">Physical activity and exercise methodology</a></li><li class="kwd"><a href="/keyword/measurement" class="hw-term hw-article-keyword hw-article-keyword-measurement" rel="nofollow">Measurement</a></li></ul><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div><a href="http://bjsm.bmj.com/content/48/3/278.full" class="hw-link hw-link-article-full-text" data-icon-position="" data-hide-link-title="0">View Full Text</a></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-markup footnotes" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" xmlns:xhtml="http://www.w3.org/1999/xhtml"></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-custom pane-2" >
+  
+        <h2  class="pane-title">Request permissions</h2>
+    
+  
+  <div class="pane-content">
+    <p>If you wish to reuse any or all of this article please use the link below which will take you to the Copyright Clearance Center&rsquo;s RightsLink service. You will be able to get a quick price and instant permission to reuse the content in many different ways.</p>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-ajax-pane-content pane-highwire-permission-link" >
+  
+        <h2  class="pane-title"><span class='panels-ajax-pane-title' data-pid='new-107'></span></h2>
+    
+  
+  <div class="pane-content">
+    <div class='panels-ajax-pane panels-ajax-pane-new-107' data-pid='new-107'></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-copyright h2-as-label" >
+  
+        <h2  class="pane-title">Copyright information: </h2>
+    
+  
+  <div class="pane-content">
+    <div class="field field-name-field-highwire-copyright field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"><span class="nlm-copyright-statement" data-hwp-id="copyright-statement-1">Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to <a href="http://group.bmj.com/group/rights-licensing/permissions">http://group.bmj.com/group/rights-licensing/permissions</a></span></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-jnl-template-bmjj-challenge article-login" >
+  
+        <h2  class="pane-title">Read the full text or download the PDF:</h2>
+    
+  
+  <div class="pane-content">
+    <div class="panel-display three-layout " id="mini-panel-jnl_template_bmjj_challenge">
+  
+    
+  <div class="panel-row-wrapper row">
+    
+    <div class="left-wrapper col-narrow-12 col-normal-4">
+      <div class="panel-panel panel-region-left">
+        <div class="inside"><div class="panel-pane pane-add-to-cart" >
+  
+      
+  
+  <div class="pane-content">
+    <span  class="highwire-foxycart-add-to-cart-ahah highwire-foxycart-add-to-cart-ahah" data-text="Buy this article" data-apath="/bjsports/48/3/278.atom" data-type="link" data-font-icon="" data-parent-id="70161"></span>  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+
+    <div class="middle-wrapper col-narrow-12 col-normal-4">
+      <div class="panel-panel panel-region-middle">
+        <div class="inside"><div class="panel-pane pane-custom pane-3" >
+  
+      
+  
+  <div class="pane-content">
+    <p><button class="btn btn-default btn-lg" onclick="javascript:location.href = '/subscribe';" type="submit">Subscribe</button></p>
+  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+    
+    <div class="right-wrapper col-narrow-12 col-normal-4">
+      <div class="panel-panel panel-region-right article-login">
+        <div class="inside"><div class="panel-pane pane-custom pane-4" >
+  
+      
+  
+  <div class="pane-content">
+    <button type="submit" class="btn btn-default btn-lg" id="sign-in" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-hidden="true">Log in <svg class="icon icon-white icon-arrow-down"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sites/default/themes/bmjj/img/defs.svg#icon-arrow-down"></use></svg></button>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-challenge-opportunity-pane-dropdown" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-challenge_opportunity_pane_dropdown">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-society-logins society-logins" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="ui-button ui-state-default ui-dialog-titlebar-close" title="close"></span><div class="shib-login-link"><a href="/login/shibboleth?subcode=bmjjournals&amp;env=prod&amp;uri=http%3A//bjsm.bmj.com/" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via Institution</a></div><div class="openathens-login-link"><a href="https://openathens.highwire.org/initiate-login?subcode=bmjjournals&amp;returnURL=http%3A//bjsm.bmj.com/content/48/3/278" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via OpenAthens</a></div><div class="society-login-dropdown"><label class="society-label" for="society-login-select">Log in via your Society</label><select class="form-control society_logins_select form-select" onchange="window.location.href = jQuery(this).val();" id="society-login-select"><option value="">Select your society</option><option value="http://casem-acmse.org/fr/">ACMSE</option><option value="https://www.physiosinsport.org/customer/account/login/">ACPSEM</option><option value="http://www.acsp.org.au/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">ACSEP</option><option value="http://www.amssm.org/JournalLinks.php">AMSSM</option><option value="http://www.basem.co.uk/login/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">BASEM</option><option value="http://www.basrat.org/member">BASRAT</option><option value="http://casem-acmse.org/members-only-content/british-journal-sport-medicine/">CASEM</option><option value="http://www.clinicaledge.com.au/users/login">CLINICAL EDGE</option><option value="http://www.ecosep.eu/en/!Login/">ECOSEP</option><option value="http://www.gissport.it/index.php?">GISSPORT</option><option value="http://learn.sportsoracle.com/diploma-1/part-1/bjsm">IOC</option><option value="http://oscamembers.wildapricot.org/Member-Benefits">OSCA</option><option value="http://www.sasma.org.za/members/index.php">SASMA</option><option value="https://sgsm.ch/etc/login/">SGMS</option><option value="https://secure.sma.org.au/ei/cm.esp?id=37&amp;start=eiscript&amp;cd=3069&amp;pageid=LOGIN">SMA</option><option value="http://www.sportphysio.ca/benefits-of-membership/bjsm-login/">SPC</option><option value="http://sportsphysiotherapy.org.nz/wp-login.php?redirect_to=http%3A%2F%2Fsportsphysiotherapy.org.nz%2Fmembers%2Fbjsm%2F">SPNZ</option><option value="https://sgsm.ch/fr/etc/login/">SSMS</option><option value="http://www.sportfisio.ch/wp-login.php?redirect_to=http%3A%2F%2Fwww.sportfisio.ch%2Fwp-admin%2F&amp;reauth=1">SSPA</option><option value="http://www.society-of-sports-therapists.org/index.php/members/bjsm_portal">SST</option><option value="https://suft-fi.directo.fi/jasenhuone/">SUFT</option><option value="http://www.sportgeneeskunde.com/user">VSG</option></select></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-opportunity-challenge" >
+  
+      
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-login'><h3>Log in using your username and password</h3><div class="drupal-login compact"><form action="/content/48/3/278" method="post" id="highwire-user-login" accept-charset="UTF-8"><div><div id="edit-customtext" class="form-item form-item-label-before form-type-item">
+ <span class="customtext">For personal accounts OR managers of institutional accounts</span>
+</div>
+<div class="form-item form-item-label-invisible form-type-textfield form-item-name">
+  <label class="element-invisible" for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-item-label-invisible form-type-password form-item-pass">
+  <label class="element-invisible" for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass" name="pass" size="30" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-FrvVYGMYcOjM8aU8S0PsiqRUHUnZxpmV5R2rtzU6zZE" />
+<input type="hidden" name="form_id" value="highwire_user_login" />
+<div class="bmjj-reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot your log in details?</a><a href="/user/register?destination=node/77428" class="" data-icon-position="" data-hide-link-title="0">Register a new account?</a></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div><div class="reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot</a> your user name or password?</div></div></form></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+  
+  </div> <!-- /.panel-row-wrapper -->  
+  
+    
+</div>
+
+  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-jnl-template-bmjj-challenge article-login col-narrow-12 clear hidden" >
+  
+        <h2  class="pane-title">Read the full text or download the PDF:</h2>
+    
+  
+  <div class="pane-content">
+    <div class="panel-display three-layout " id="mini-panel-jnl_template_bmjj_challenge-1">
+  
+    
+  <div class="panel-row-wrapper row">
+    
+    <div class="left-wrapper col-narrow-12 col-normal-4">
+      <div class="panel-panel panel-region-left">
+        <div class="inside"><div class="panel-pane pane-add-to-cart" >
+  
+      
+  
+  <div class="pane-content">
+    <span  class="highwire-foxycart-add-to-cart-ahah highwire-foxycart-add-to-cart-ahah" data-text="Buy this article" data-apath="/bjsports/48/3/278.atom" data-type="link" data-font-icon="" data-parent-id="70161"></span>  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+
+    <div class="middle-wrapper col-narrow-12 col-normal-4">
+      <div class="panel-panel panel-region-middle">
+        <div class="inside"><div class="panel-pane pane-custom pane-5" >
+  
+      
+  
+  <div class="pane-content">
+    <p><button class="btn btn-default btn-lg" onclick="javascript:location.href = '/subscribe';" type="submit">Subscribe</button></p>
+  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+    
+    <div class="right-wrapper col-narrow-12 col-normal-4">
+      <div class="panel-panel panel-region-right article-login">
+        <div class="inside"><div class="panel-pane pane-custom pane-6" >
+  
+      
+  
+  <div class="pane-content">
+    <button type="submit" class="btn btn-default btn-lg" id="sign-in" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-hidden="true">Log in <svg class="icon icon-white icon-arrow-down"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sites/default/themes/bmjj/img/defs.svg#icon-arrow-down"></use></svg></button>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-challenge-opportunity-pane-dropdown" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-challenge_opportunity_pane_dropdown-1">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-society-logins society-logins" >
+  
+      
+  
+  <div class="pane-content">
+    <span class="ui-button ui-state-default ui-dialog-titlebar-close" title="close"></span><div class="shib-login-link"><a href="/login/shibboleth?subcode=bmjjournals&amp;env=prod&amp;uri=http%3A//bjsm.bmj.com/" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via Institution</a></div><div class="openathens-login-link"><a href="https://openathens.highwire.org/initiate-login?subcode=bmjjournals&amp;returnURL=http%3A//bjsm.bmj.com/content/48/3/278" class="button society-login-link" data-icon-position="" data-hide-link-title="0">Log in via OpenAthens</a></div><div class="society-login-dropdown"><label class="society-label" for="society-login-select--2">Log in via your Society</label><select class="form-control society_logins_select form-select" onchange="window.location.href = jQuery(this).val();" id="society-login-select--2"><option value="">Select your society</option><option value="http://casem-acmse.org/fr/">ACMSE</option><option value="https://www.physiosinsport.org/customer/account/login/">ACPSEM</option><option value="http://www.acsp.org.au/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">ACSEP</option><option value="http://www.amssm.org/JournalLinks.php">AMSSM</option><option value="http://www.basem.co.uk/login/?SSO=BMJ&amp;redirecturl=http://bjsm.bmj.com/content/48/3/278">BASEM</option><option value="http://www.basrat.org/member">BASRAT</option><option value="http://casem-acmse.org/members-only-content/british-journal-sport-medicine/">CASEM</option><option value="http://www.clinicaledge.com.au/users/login">CLINICAL EDGE</option><option value="http://www.ecosep.eu/en/!Login/">ECOSEP</option><option value="http://www.gissport.it/index.php?">GISSPORT</option><option value="http://learn.sportsoracle.com/diploma-1/part-1/bjsm">IOC</option><option value="http://oscamembers.wildapricot.org/Member-Benefits">OSCA</option><option value="http://www.sasma.org.za/members/index.php">SASMA</option><option value="https://sgsm.ch/etc/login/">SGMS</option><option value="https://secure.sma.org.au/ei/cm.esp?id=37&amp;start=eiscript&amp;cd=3069&amp;pageid=LOGIN">SMA</option><option value="http://www.sportphysio.ca/benefits-of-membership/bjsm-login/">SPC</option><option value="http://sportsphysiotherapy.org.nz/wp-login.php?redirect_to=http%3A%2F%2Fsportsphysiotherapy.org.nz%2Fmembers%2Fbjsm%2F">SPNZ</option><option value="https://sgsm.ch/fr/etc/login/">SSMS</option><option value="http://www.sportfisio.ch/wp-login.php?redirect_to=http%3A%2F%2Fwww.sportfisio.ch%2Fwp-admin%2F&amp;reauth=1">SSPA</option><option value="http://www.society-of-sports-therapists.org/index.php/members/bjsm_portal">SST</option><option value="https://suft-fi.directo.fi/jasenhuone/">SUFT</option><option value="http://www.sportgeneeskunde.com/user">VSG</option></select></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-opportunity-challenge" >
+  
+      
+  
+  <div class="pane-content">
+    <div class='opportunity-challenge-login'><h3>Log in using your username and password</h3><div class="drupal-login compact"><form action="/content/48/3/278" method="post" id="highwire-user-login--2" accept-charset="UTF-8"><div><div id="edit-customtext--2" class="form-item form-item-label-before form-type-item">
+ <span class="customtext">For personal accounts OR managers of institutional accounts</span>
+</div>
+<div class="form-item form-item-label-invisible form-type-textfield form-item-name">
+  <label class="element-invisible" for="edit-name--2">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Username" type="text" id="edit-name--2" name="name" value="" size="30" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-item-label-invisible form-type-password form-item-pass">
+  <label class="element-invisible" for="edit-pass--2">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input placeholder="Password" type="password" id="edit-pass--2" name="pass" size="30" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-VX0v0sh_qljskmFevK78NGdWocv8V4owiAqBZDNIIH8" />
+<input type="hidden" name="form_id" value="highwire_user_login" />
+<div class="bmjj-reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot your log in details?</a><a href="/user/register?destination=node/77428" class="" data-icon-position="" data-hide-link-title="0">Register a new account?</a></div><div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div><div class="reset-password"><a href="/user/password" class="" data-icon-position="" data-hide-link-title="0">Forgot</a> your user name or password?</div></div></form></div></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+  
+  </div> <!-- /.panel-row-wrapper -->  
+  
+    
+</div>
+
+  </div>
+
+  
+  </div>
+</div>
+      </div>
+      <a href="#" id="article-bottom"></a>
+    </div>
+    
+    <div class="col-narrow-1 mobile-hidden back-top" id="back-top">
+      <div class="panel-panel panel-region-left">
+        <div class="inside" id="back-top-inner"><div class="panel-pane pane-bmjj-back-to-top article-go-to-top" >
+  
+      
+  
+  <div class="pane-content">
+    <a href="#block-system-main" class="back-to-top" data-icon-position="" data-hide-link-title="0"><svg class="icon-article icon-arrow-up-top" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sites/default/themes/bmjj/img/defs.svg#icon-arrow-up"></use></svg></a><a href="#article-bottom" class="back-to-top back-to-bottom" data-icon-position="" data-hide-link-title="0"><svg class="icon-article icon-arrow-up-top" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/sites/default/themes/bmjj/img/defs.svg#icon-arrow-down"></use></svg></a>  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+  
+  </div> <!-- /.panel-row-wrapper -->  
+    <div class="panel-row-wrapper panel-row-last row" id="article-bottom-row">
+    
+    <div class="bottom-wrapper col-narrow-12">
+      <div class="panel-panel panel-region-bottom">
+        <div class="inside"><div class="panel-pane pane-snippet pane-footer-marketing-slots" >
+  
+      
+  
+  <div class="pane-content">
+    <div class="snippet footer-marketing-slots" id="footer-marketing-slots">
+  
+      
+  <div class="snippet-content">
+     
+          <iframe src="http://jobs.bmj.com/widget/bootstrap/job/#i=157" id="mdgxWidgetiFrame" title="careers widget"></iframe>
+
+          <script type="text/javascript" src="//trendmd.s3.amazonaws.com/trendmd.min.js"></script>
+
+          <script type="text/javascript">TrendMD.register(
+          {journal_id: 35591, element: '#trendmd-suggestions', track_id: null}
+          );</script>
+
+          <div id="trendmd-suggestions"></div>
+          </div>
+
+</div>
+  </div>
+
+  
+  </div>
+</div>
+      </div>
+    </div>
+  
+  </div> <!-- /.panel-row-wrapper -->  
+  </div>
+
+  </div>
+</div>
+  </div>
+          </div>
+        </div><!-- /.region-content -->
+
+        
+        
+      </div><!-- /.zone-content -->
+    </div><!-- /.container -->
+  </section> <!-- /.section-content -->
+</div> <!-- /.page -->
+
+<footer role="contentinfo" class="section section-footer container-fluid" id="footer">
+    <section class="zone zone-footer row footer-journal-societies">
+    <div class="region region-footer col-narrow-12">
+      <div class="region-inner region-footer-inner">
+          <div class="region region-footersoc">
+    <div id="block-panels-mini-footer-society-images" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-footer_society_images">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-societies-logos" >
+  
+      
+  
+  <div class="pane-content">
+    <ul><li><a href="http://www.basem.co.uk/"><img src="http://resources.bmj.com/repository/journals-network-project/images/society-logos/society-logo-basem.png" alt="British Association of Sport & Exercise Medicine" /></a></li></ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+      </div>
+    </div><!-- /.region-footer-first -->
+  </section>
+    <section role="contentinfo" class="section section-footer">
+    <div class="zone zone-footer footer-links">
+      <nav class="row">
+          <div class="region region-footerlinks1">
+    <div id="block-menu-block-1" class="block block-menu-block" class="block block-menu-block">
+
+    
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-menu-footer-menu-1 parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first expanded menu-mlid-10373 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Content</a><ul class="menu"><li class="first leaf menu-mlid-10374"><a href="/content/early/recent" class="" data-icon-position="" data-hide-link-title="0">Latest content</a></li>
+<li class="leaf menu-mlid-10375"><a href="/content/current" class="" data-icon-position="" data-hide-link-title="0">Current issue</a></li>
+<li class="leaf menu-mlid-10376"><a href="/content/by/year" class="" data-icon-position="" data-hide-link-title="0">Archive</a></li>
+<li class="leaf menu-mlid-10377"><a href="http://bjsm.bmj.com/pages/browse-by-topic/" class="" data-icon-position="" data-hide-link-title="0">Browse by topic</a></li>
+<li class="leaf menu-mlid-10378"><a href="http://bjsm.bmj.com/pages/most-read-articles/" class="" data-icon-position="" data-hide-link-title="0">Most read articles</a></li>
+<li class="leaf menu-mlid-10379"><a href="http://bjsm.bmj.com/pages/bjsm-education/" class="" data-icon-position="" data-hide-link-title="0">BJSM education</a></li>
+<li class="last leaf menu-mlid-10380"><a href="http://bjsm.bmj.com/eletters" class="" data-icon-position="" data-hide-link-title="0">Responses</a></li>
+</ul></li>
+<li class="expanded menu-mlid-10381 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Journal</a><ul class="menu"><li class="first leaf menu-mlid-10382"><a href="http://bjsm.bmj.com/pages/about/" class="" data-icon-position="" data-hide-link-title="0">About</a></li>
+<li class="leaf menu-mlid-10383"><a href="http://bjsm.bmj.com/pages/editorial-board/" class="" data-icon-position="" data-hide-link-title="0">Editorial board</a></li>
+<li class="leaf menu-mlid-10384"><a href="http://bjsm.bmj.com/pages/thank-you-to-our-reviewers/" class="" data-icon-position="" data-hide-link-title="0">Thank you to our reviewers</a></li>
+<li class="leaf menu-mlid-10385"><a href="http://bjsm.bmj.com/alerts/toc/edit?destination=" class="" data-icon-position="" data-hide-link-title="0">Sign up for email alerts</a></li>
+<li class="last leaf menu-mlid-10386"><a href="http://bjsm.bmj.com/pages/subscribe/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Subscribe</a></li>
+</ul></li>
+<li class="expanded menu-mlid-10387 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Authors</a><ul class="menu"><li class="first leaf menu-mlid-10388"><a href="http://bjsm.bmj.com/pages/authors/" class="" data-icon-position="" data-hide-link-title="0">Instructions for authors</a></li>
+<li class="leaf menu-mlid-10389"><a href="https://mc.manuscriptcentral.com/bjsm" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Submit an article</a></li>
+<li class="last leaf menu-mlid-10390"><a href="http://openaccess.bmj.com/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Open Access at BMJ</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-10391 col-mobile-12 col-narrow-3 col-normal-3 col-wide-3"><a href="/" class="" data-icon-position="" data-hide-link-title="0">Help</a><ul class="menu"><li class="first leaf menu-mlid-10392"><a href="http://bjsm.bmj.com/pages/contact-us/" class="" data-icon-position="" data-hide-link-title="0">Contact us</a></li>
+<li class="leaf menu-mlid-10393"><a href="http://journals.bmj.com/cgi/reprintform" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Reprints</a></li>
+<li class="leaf menu-mlid-10394"><a href="http://www.bmj.com/company/products-services/rights-and-licensing/permissions" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Permissions</a></li>
+<li class="leaf menu-mlid-10395"><a href="http://www.bmj.com/company/contact-us/advertising-sponsorship/" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Advertising</a></li>
+<li class="last leaf menu-mlid-10396"><a href="http://myaccount.bmj.com/myaccount/customerservice/salesforce-form.html" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Feedback form</a></li>
+</ul></li>
+</ul></div>
+  </div>
+</div>
+  </div>
+      </nav>
+            <div class="row">
+        <nav class="col-mobile-12 col-narrow-3 col-normal-3 col-wide-3">
+            <div class="region region-footersocial">
+    <div id="block-panels-mini-social-icons" class="block block-panels-mini" class="block block-panels-mini">
+
+    
+  <div class="content">
+    <div class="panel-display panel-1col clearfix" id="mini-panel-social_icons">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-bmjj-social-icons" >
+  
+      
+  
+  <div class="pane-content">
+    <ul class="menu"><li class="leaf"><a href="http://bjsm.bmj.com/pages/rss-feeds" class="link-icon-only link-icon"><span class="icon icon-rss"></span><span class="title element-invisible"> RSS</span></a></li><li class="leaf"><a href="http://twitter.com/BJSM_BMJ" class="link-icon-only link-icon"><span class="icon icon-twitter"></span><span class="title element-invisible"> Twitter</span></a></li><li class="leaf"><a href="http://www.facebook.com/BJSM.BMJ" class="link-icon-only link-icon"><span class="icon icon-facebook"></span><span class="title element-invisible"> Facebook</span></a></li><li class="leaf"><a href="http://www.youtube.com/user/BJSMVideos" class="link-icon-only link-icon"><span class="icon icon-youtube"></span><span class="title element-invisible"> YouTube</span></a></li><li class="leaf"><a href="https://soundcloud.com/bmjpodcasts/sets/bjsm-1" class="link-icon-only link-icon"><span class="icon icon-soundcloud"></span><span class="title element-invisible"> SoundCloud</span></a></li><li class="leaf"><a href="http://blogs.bmj.com/bjsm/" class="link-icon-only link-icon"><span class="icon icon-blog"></span><span class="title element-invisible"> Blog</span></a></li><li class="leaf"><a href="https://plus.google.com/u/0/communities/101520200531074507996" class="link-icon-only link-icon"><span class="icon icon-google-plus"></span><span class="title element-invisible"> Google Plus</span></a></li></ul>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+        </nav>
+      </div>
+          </div>
+  </section><!-- /.section-footer -->
+    <section class="row footer-platform">
+    <div class="col-mobile-12 col-narrow-4 logoBMJ">
+      <a href="http://www.bmj.com/company"><svg class="logo-bmj-svg" aria-hidden="true"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo-bmj"></use><svg></svg></svg></a>
+    </div>
+    <div class="col-mobile-12 col-narrow-8 legal">
+      <div class="legal-inner">
+        <ul>
+          <li><a href="http://www.bmj.com/company/legal-information/">Website Terms &amp; Conditions</a></li>
+          <li><a href="http://www.bmj.com/company/your-privacy/">Privacy &amp; Cookies</a></li>
+          <li><a href="http://www.bmj.com/company/contact-us/">Contact BMJ</a></li>
+        </ul>
+        <p><small><span class="online-issn issn">Online: ISSN 1473-0480</span><span class="print-issn issn">Print: ISSN 0306-3674</span></small><br />
+        <small>Copyright © 2017 by the BMJ Publishing Group Ltd &amp; British Association of Sport and Exercise Medicine.<br />
+        京ICP备15042040号-3</small></p>
+      </div>
+    </div>
+  </section>
+    <div class="region region-absolute-bottom">
+    <div class="region-inner region-absolute-bottom-inner">
+        <div class="region region-absolute-bottom">
+    <div id="block-panels-mini-bottom-ad" class="block block-panels-mini text-center" class="block block-panels-mini text-center">
+
+    
+  <div class="content">
+    <div class="panel-display one-layout " id="mini-panel-bottom_ad">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-9 rtecenter" >
+  
+      
+  
+  <div class="pane-content">
+    <div id="oas_Bottom">&nbsp;</div>
+<script type="text/javascript">oas_tag.loadAd("Bottom");</script>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+    </div>
+  </div><!-- /.region-absolute-bottom -->
+  </footer><!-- /.section-footer -->
+  <script type="text/javascript" src="//bjsm.bmj.com/sites/all/libraries/enquire.js/enquire.min.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_panels_ajax_tab.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_openurl.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_google_scholar_sprinkle.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/all/themes/highwire/axon/js/theme-scripts.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/jnl_template_bmjj_styles/js/svg4everybody/dist/svg4everybody.min.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/jnl_template_bmjj_styles/js/jnl_template_bmjj_svg.js?p0x9h6"></script>
+<script type="text/javascript" src="//bjsm.bmj.com/sites/default/modules/jnl_template_bmjj_styles/js/jnl_template_bmjj_altmetrics.js?p0x9h6"></script>
+</body>
+</html>
